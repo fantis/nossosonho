@@ -7,7 +7,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- OS MELHORES LANCAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- FILMES LANCAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -23,21 +23,6 @@
 
 
 [COLOR deeppink]|[/COLOR]- FILMES NACIONAIS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]ACAO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AÇÃO.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACAO</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES ACAO -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -68,21 +53,6 @@
 
 
 [COLOR deeppink]|[/COLOR]- FILMES COMEDIA -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FICCAO CIENTIFICA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/FICÇÃO.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FICCAO</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES FICCAO CIENTIFICA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
