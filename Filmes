@@ -1,79 +1,77 @@
+<layouttype>thumbnail</layouttype>
+
+
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LANCAMENTOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>LANCAMENTOS</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/LANÇAMENTOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LANCAMENTOS</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES LANCAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+<info>ULTIMOS LANCAMENTOS</info>
 </channel>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channel>
+<name>ACAO</name>
+<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AÇÃO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACAO</externallink>
+<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>TIRO, PORRADA E BOMBA</info>
+</channel>
 
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]NACIONAIS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>NACIONAIS</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/NACIONAIS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NACIONAIS</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES NACIONAIS -[COLOR deeppink]|[/COLOR]</info>
+<info>BRAZUCA NA AREA</info>
 </channel>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LUTA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601504.us.archive.org/12/items/acao_20191001/AVENTURA.png</thumbnail>
+<name>LUTA</name>
+<thumbnail>https://ia601504.us.archive.org/5/items/luta_20191001/LUTA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LUTA</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES LUTA -[COLOR deeppink]|[/COLOR]</info>
+<info>MUITA PORRADA</info>
 </channel>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]COMEDIA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>COMEDIA</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/COMEDIA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/COMEDIA</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES COMEDIA -[COLOR deeppink]|[/COLOR]</info>
+<info>AS MELHORES RISADAS AQUI</info>
 </channel>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SUSPENCE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>SUSPENCE</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/SUSPENCE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SUSPENCE</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES SUSPENSE -[COLOR deeppink]|[/COLOR]</info>
+<info>DE TIRAR O FOLEGO</info>
 </channel>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TERROR[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>TERROR</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/TERROR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TERROR</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES TERROR -[COLOR deeppink]|[/COLOR]</info>
+<info>MUITO SANGUE E TRIPAS</info>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channel>
+<name>FICCAO</name>
+<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/FICÇÃO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FICCAO</externallink>
+<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>MUITO ET AQUI</info>
+</channel>
+
+<channel>
+<name>AVENTURA</name>
+<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AVENTURA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AVENTURA</externallink>
+<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>A AVENTURA COMECA AQUI</info>
+</channel>
+
+</channels>
