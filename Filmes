@@ -8,19 +8,11 @@
 </channel>
 
 <channel>
-<name>ACAO</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AÇÃO.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACAO</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>TIRO, PORRADA E BOMBA</info>
-</channel>
-
-<channel>
 <name>LANCAMENTO</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/NACIONAIS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NACIONAIS</externallink>
+<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/LANÇAMENTOS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LANCAMENTOS</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>BRAZUCA NA AREA</info>
+<info>2019</info>
 </channel>
 
 <channel>
@@ -41,10 +33,10 @@
 
 <channel>
 <name>FICCAO</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/SUSPENCE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SUSPENCE</externallink>
+<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/FICÇÃO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FICCAO</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>DE TIRAR O FOLEGO</info>
+<info>MUITO ET</info>
 </channel>
 
 <channel>
@@ -56,19 +48,11 @@
 </channel>
 
 <channel>
-<name>FICCAO</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/FICÇÃO.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FICCAO</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>MUITO ET AQUI</info>
-</channel>
-
-<channel>
 <name>ACAO</name>
-<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AVENTURA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AVENTURA</externallink>
+<thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AÇÃO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACAO</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>A AVENTURA COMECA AQUI</info>
+<info>TIRO, PORRADA E BOMBA</info>
 </channel>
 
 </channels>
