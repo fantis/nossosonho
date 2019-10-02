@@ -16,7 +16,7 @@
 </channel>
 
 <channel>
-<name>NACIONAIS</name>
+<name>LANCAMENTO</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/NACIONAIS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NACIONAIS</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
@@ -64,7 +64,7 @@
 </channel>
 
 <channel>
-<name>AVENTURA</name>
+<name>ACAO</name>
 <thumbnail>https://ia801504.us.archive.org/12/items/acao_20191001/AVENTURA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AVENTURA</externallink>
 <fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
