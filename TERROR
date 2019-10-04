@@ -1,27 +1,7 @@
-#EXTINF:-1tvg-logo="--LOGO--"group=title="",--ADDON NOSSO SONHO--
-
-#EXTINF:-1tvg-logo="--LOGO--"group=title="",--04/10/2019--
-
-#EXTINF:-1tvg-logo="--LOGO--"group=title="",[COLOR blue][I][B]--FILMES TORRENT--[/B][/L][/COLOR]
-
-
-#EXTINF:-1 channeIDl="--TERROR--"tvg-logo="--https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4OydN9XST5huCPzijNwxiUL50x.jpg--"aspect-ratio="16:9",--Invocação do Mal (2013)--
---http://localhost:65251/play?uri=magnet:?xt=urn:btih:3248F742466E479A4D86092D3224DA44497B0DF3&amp--
-
-#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
---URL/LINK DO FILME--
-
-#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
---URL/LINK DO FILME--
-
-#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
---URL/LINK DO FILME--
-
-#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
---URL/LINK DO FILME--
-
-#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
---URL/LINK DO FILME--
-
-#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
---URL/LINK DO FILME--
+<item>
+<title>O Grande Dragão Branco (1988)</title>
+<externallink>http://localhost:65251/play?uri=magnet:?xt=urn:btih:3248F742466E479A4D86092D3224DA44497B0DF3&amp</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAxLl05zXbKEujL90HakZ9F8gZF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aTRHE0qqfoL9OCvtZxET8158FWg.jpg</fanart>
+<info>Sinopse - Frank Dux (Jean-Claude Van Damme) passou boa parte da vida sendo treinado por Tanaka (Roy Chiao) para participar do kumite, um torneio mundial de artes marciais onde é comum que os participantes se machuquem seriamente e, às vezes, sejam mortos. Apesar de seus superiores no exército afirmarem que precisam dele, Frank ainda assim decide partir rumo à competição. Dois oficiais são enviados para segui-lo, mas Frank consegue despistá-los em Hong Kong. Ao iniciar o torneio Frank logo percebe que seu principal adversário será o atual campeão, Chong Li (Belo Yeung), que tem matado alguns de seus oponentes.</info>
+</item>
