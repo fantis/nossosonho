@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1tvg-logo="--https://i.pinimg.com/474x/e5/15/c7/e515c71beb33fe12d7cc01fe2469791d.jpg--"group=title="",--ADDON NOSSO SONHO--
+
+#EXTINF:-1tvg-logo="--https://i.pinimg.com/474x/e5/15/c7/e515c71beb33fe12d7cc01fe2469791d.jpg--"group=title="",--04/10/2019--
+
+#EXTINF:-1tvg-logo="--https://i.pinimg.com/474x/e5/15/c7/e515c71beb33fe12d7cc01fe2469791d.jpg--"group=title="",[COLOR blue][I][B]--FILMES TORRENT--
+
+[/B][/L][/COLOR]
+
+
+#EXTINF:-1 channeIDl="--TERROR--"tvg-logo="--https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4OydN9XST5huCPzijNwxiUL50x.jpg--"aspect-ratio="16:9",--Invocação do Mal (2013)--
+--http://localhost:65251/play?uri=magnet:?xt=urn:btih:3248F742466E479A4D86092D3224DA44497B0DF3&amp--
+
+#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
+--URL/LINK DO FILME--
+
+#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
+--URL/LINK DO FILME--
+
+#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
+--URL/LINK DO FILME--
+
+#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
+--URL/LINK DO FILME--
+
+#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
+--URL/LINK DO FILME--
+
+#EXTINF:-1 channeIDl="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--
+--URL/LINK DO FILME--
