@@ -41,14 +41,6 @@
 </channel>
 
 <channel>
-<name>ACAO</name>
-<thumbnail>https://ia601405.us.archive.org/7/items/acao_20191002_201910/ACAO.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACAO</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>TIRO, PORRADA E BOMBA</info>
-</channel>
-
-<channel>
 <name>GUERRA</name>
 <thumbnail>https://ia801405.us.archive.org/7/items/acao_20191002_201910/GUERRA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/GUERRA</externallink>
