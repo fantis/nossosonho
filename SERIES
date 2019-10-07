@@ -17,3 +17,13 @@
 <info>Um grupo de pessoas sobrevive a um voo turbulento apenas para, ao chegar na terra em segurança, perceber que o que para eles pareceu algumas horas no ar, na verdade foram cinco anos para o resto do mundo. Suas famílias acreditavam que eles estavam mortos e já haviam perdido toda a esperança, mas agora eles recebem uma segunda chance. Tentando se acostumar com suas novas realidades, esses passageiros se veem parte de mistérios mais profundos do que jamais poderiam imaginar.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]Chernobyl (2019)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/CHERNOBYL</externallink>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>Homens e mulheres corajosos agem heroicamente para mitigar danos catastróficos quando a Usina Nuclear de Chernobyl sofre um acidente nuclear em 25 de abril de 1986.</info>
+</channel>
+</channels>
