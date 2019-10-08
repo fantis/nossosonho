@@ -1,4 +1,32 @@
 <item>
+<title>RADIO - Mania FM - 102.9 FM - RJ</title>
+<link>http://1.servercsi.com.br:8589/;</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO - 99.7 FM - RS</title>
+<link>http://idc5.radiowebtv.com:9125/;</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO - PAGODÃO.NET</title>
+<link>http://streaming.shoutcast.com/89FMARADIOROCK</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO - Transamerica FM</title>
+<link>http://transamerica.crossradio.com.br:9114/live.mp3</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
 <title>RADIO Viva o Samba</title>
 <link>http://servidor33.brlogic.com:8020/live</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
@@ -39,4 +67,12 @@
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
+
+<item>
+<title>RADIO Motel - Mix FM - 106.3 FM</title>
+<link>http://tuneinmix.crossradio.com.br:8008/stream</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
 
