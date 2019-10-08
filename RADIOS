@@ -1,6 +1,42 @@
 <item>
-<title>RAdio Viva o Samba</title>
+<title>RADIO Viva o Samba</title>
 <link>http://servidor33.brlogic.com:8020/live</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
+
+<item>
+<title>RADIO AXE Bahia</title>
+<link>http://euroticast1.euroti.com.br:8070//;stream.mp3</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO Skate Metal Old</title>
+<link>http://stm32.streaminghd.net.br:12406//;stream.mp3</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO Jukebox</title>
+<link>http://streaming08.hstbr.net:8240/live</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO Classicos do Funk</title>
+<link>http://radio5.logicahost.com.br:9812/;</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>RADIO Motel - Romantica</title>
+<link>http://stm29.adcast.com.br:8288/;stream.aac</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
