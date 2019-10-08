@@ -36,11 +36,11 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SÉRIES 2[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://www.apptuts.com.br/wp-content/uploads/2019/08/melhores-series-netflix-2019-capa.jpg</thumbnail>
-<externallink>http://servidor33.brlogic.com:8020/live</externallink>
-<fanart>http://temposmodernos.site/portal/wp-content/uploads/melhores-s%C3%A9ries-1068x536.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- SERIES E + SERIES -[COLOR deeppink]|[/COLOR]</info>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RADIOS ONLINE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/RADIOS</externallink>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- SAMBA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
