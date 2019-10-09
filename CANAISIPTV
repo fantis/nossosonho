@@ -146,6 +146,20 @@
 </item>
 
 <item>
+<title>NatGeo HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22389</link>
+<thumbnail>http://static.psrv.io/logos/canais/nationalgeographic.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NatGeo Wild HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18606</link>
+<thumbnail>https://static.psrv.io/logos/canais/natgeowild.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Arte 1 HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18732</link>
 <thumbnail>https://static.psrv.io/logos/canais/arte1.png</thumbnail>
@@ -279,6 +293,14 @@
 </item>
 
 <item>
+<title>NatGeo Kids HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18607</link>
+<thumbnail>https://static.psrv.io/logos/canais/natgeokids.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Boomerang HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18718</link>
 <thumbnail>https://static.psrv.io/logos/canais/boomerang.png</thumbnail>
@@ -384,6 +406,34 @@
 </item>
 
 <item>
+<title>Nick Jr HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18602</link>
+<thumbnail>https://static.psrv.io/logos/canais/nickjr.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nickelodeon HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18600</link>
+<thumbnail>https://static.psrv.io/logos/canais/nick.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tooncast HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22355</link>
+<thumbnail>http://static.psrv.io/logos/canais/tooncast.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV Ra Tim Bum HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22343</link>
+<thumbnail>http://static.psrv.io/logos/canais/ratimbum.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Lifetime HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18627</link>
 <thumbnail>https://static.psrv.io/logos/canais/lifetime.png</thumbnail>
@@ -443,6 +493,28 @@
 <title>Futura HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18655</link>
 <thumbnail>https://static.psrv.io/logos/canais/futura.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SBT HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18569</link>
+<thumbnail>https://static.psrv.io/logos/canais/sbt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>SBT RJ HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22458</link>
+<thumbnail>http://static.psrv.io/logos/canais/sbt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Record News HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18577</link>
+<thumbnail>https://static.psrv.io/logos/canais/recordnews.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -629,6 +701,83 @@
 </item>
 
 <item>
+<title>Syfy HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18566</link>
+<thumbnail>https://static.psrv.io/logos/canais/syfy.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TCM SD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18553</link>
+<thumbnail>https://static.psrv.io/logos/canais/tcm.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecine Action HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18551</link>
+<thumbnail>https://static.psrv.io/logos/canais/telecineaction.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecine Cult HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18549</link>
+<thumbnail>https://static.psrv.io/logos/canais/telecinecult.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecine Fun HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18547</link>
+<thumbnail>https://static.psrv.io/logos/canais/telecinefun.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecine Pipoca HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18545</link>
+<thumbnail>https://static.psrv.io/logos/canais/telecinepipoca.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecine Premium HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18543</link>
+<thumbnail>https://static.psrv.io/logos/canais/telecinepremium.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecine Touch HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18541</link>
+<thumbnail>https://static.psrv.io/logos/canais/telecinetouch.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22358</link>
+<thumbnail>http://static.psrv.io/logos/canais/tlc.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22357</link>
+<thumbnail>http://static.psrv.io/logos/canais/tnt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT Series HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18534</link>
+<thumbnail>https://static.psrv.io/logos/canais/tntseries.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>HBO HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18637</link>
 <thumbnail>http://static.psrv.io/logos/canais/hbo.png</thumbnail>
@@ -691,11 +840,52 @@
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>Megapix SD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18618</link>
 <thumbnail>http://static.psrv.io/logos/canais/megapix.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Paramount HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18596</link>
+<thumbnail>https://static.psrv.io/logos/canais/paramount.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22437</link>
+<thumbnail>http://static.psrv.io/logos/canais/sony.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Space HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18564</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Studio Universal HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18556</link>
+<thumbnail>https://static.psrv.io/logos/canais/studiouniversal.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Universal Channel HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18520</link>
+<thumbnail>https://static.psrv.io/logos/canais/universalchannel.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Warner Channel HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18513</link>
+<thumbnail>https://static.psrv.io/logos/canais/warner.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -728,221 +918,29 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>OFF HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22384</link>
+<thumbnail>http://static.psrv.io/logos/canais/off.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>VH1 HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18518</link>
+<thumbnail>https://static.psrv.io/logos/canais/vh1.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Viva HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18515</link>
+<thumbnail>https://static.psrv.io/logos/canais/viva.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Woohoo HD</title>
+<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18511</link>
+<thumbnail>https://static.psrv.io/logos/canais/woohoo.png</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
