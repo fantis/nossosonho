@@ -1,78 +1,160 @@
 <item>
-<title>RADIO - Mania FM - 102.9 FM - RJ</title>
-<link>http://1.servercsi.com.br:8589/;</link>
+<title>ANOS 70</title>
+<link>http://192.99.150.31:8241/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO - 99.7 FM - RS</title>
-<link>http://idc5.radiowebtv.com:9125/;</link>
+<title>ANOS 80</title>
+<link>http://192.99.150.31:8697/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO - PAGODÃO.NET</title>
-<link>http://streaming.shoutcast.com/89FMARADIOROCK</link>
+<title>ANOS 90</title>
+<link>http://192.99.150.31:8056/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO - Transamerica FM</title>
-<link>http://transamerica.crossradio.com.br:9114/live.mp3</link>
+<title>ANOS 2000</title>
+<link>http://6d9a.webradio.upx.net.br:9940/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO Viva o Samba</title>
-<link>http://servidor33.brlogic.com:8020/live</link>
+<title>AXÉ</title>
+<link>http://192.99.150.31:8305/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO AXE Bahia</title>
-<link>http://euroticast1.euroti.com.br:8070//;stream.mp3</link>
+<title>BOSSA NOVA</title>
+<link>http://6d9a.webradio.upx.net.br:9974/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO Skate Metal Old</title>
-<link>http://stm32.streaminghd.net.br:12406//;stream.mp3</link>
+<title>BREGA</title>
+<link>http://192.99.150.31:9007/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO Jukebox</title>
-<link>http://streaming08.hstbr.net:8240/live</link>
+<title>ELETRÔNICA</title>
+<link>http://192.99.150.31:9095/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO Classicos do Funk</title>
-<link>http://radio5.logicahost.com.br:9812/;</link>
+<title>FESTA</title>
+<link>http://6d9a.webradio.upx.net.br:9070/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO Motel - Romantica</title>
-<link>http://stm29.adcast.com.br:8288/;stream.aac</link>
+<title>FORRÓ</title>
+<link>http://192.99.150.31:9019/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
 <item>
-<title>RADIO Motel - Mix FM - 106.3 FM</title>
-<link>http://tuneinmix.crossradio.com.br:8008/stream</link>
+<title>FUNK</title>
+<link>http://192.99.150.31:9089/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
 </item>
 
+<item>
+<title>GOSPEL</title>
+<link>http://192.99.150.31:9101/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
 
+<item>
+<title>HIP HOP</title>
+<link>http://192.99.150.31:8721/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>JAZZ</title>
+<link>http://192.99.150.31:8042/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>LOUNGE</title>
+<link>http://6d9a.webradio.upx.net.br:9064/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>METAL</title>
+<link>http://6d9a.webradio.upx.net.br:9898/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>MPB</title>
+<link>http://192.99.150.31:8775/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>MÚSICA CLÁSSICA</title>
+<link>http://6d9a.webradio.upx.net.br:9970/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>NEW ROCK</title>
+<link>http://6d9a.webradio.upx.net.br:8028/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>PAGODE</title>
+<link>http://6d9a.webradio.upx.net.br:9061/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>POP ROCK</title>
+<link>http://6d9a.webradio.upx.net.br:8016/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>SERTANEJO UNIVERSITÁRIO</title>
+<link>http://192.99.150.31:9191/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>TRILHAS SONORAS</title>
+<link>http://6d9a.webradio.upx.net.br:9896/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
