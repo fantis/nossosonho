@@ -25,6 +25,14 @@
 </channel>
 
 <channel>
+<name>DRAMA</name>
+<thumbnail>http://www.riversidechristianschool.com/wp-content/uploads/2017/11/Drama-icon.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DRAMA</externallink>
+<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>AS MUITO CHORO</info>
+</channel>
+
+<channel>
 <name>FICCAO</name>
 <thumbnail>https://ia601404.us.archive.org/17/items/fic_20191002/FIC.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FICCAO</externallink>
