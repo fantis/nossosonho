@@ -1,17 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FUNDO DO BAU[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/32/items/series_201910/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FUNDODOBAU</externallink>
-<fanart>https://ia801505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- AS MAIORES RARIDADES -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/32/items/series_201910/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Filmes</externallink>
