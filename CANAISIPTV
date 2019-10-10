@@ -1,8 +1,6 @@
 <item>
 <title>Animal Planet HD</title>
-<link>
-sublink:plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET HD#
-</link>
+<link>sublink:plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET HD#</link>
 <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
 <fanart></fanart>
 </item>
