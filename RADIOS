@@ -1,4 +1,51 @@
 <item>
+<title> FM O DIA TV</title>
+<link>http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title> Rádio Transamérica FM </title>
+<link>http://transamerica.crossradio.com.br:9114/live.mp3</link>
+<thumbnail>http://brasilradiofm.com/sites/default/files/radio/logos/logo-transamerica.png</thumbnail>
+<fanart>http://brasilradiofm.com/sites/default/files/radio/logos/logo-transamerica.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title> Nativa</title>
+<link>https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Xai7F0P.png</thumbnail>
+<fanart>http://i.imgur.com/Xai7F0P.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title> Rádio Mix FM </title>
+<link>http://mixaac.crossradio.com.br:10010/stream</link>
+<thumbnail>http://radiomixfm.com.br/wp-content/uploads/2018/02/logo-2018-social.png</thumbnail>
+<fanart>http://radiomixfm.com.br/wp-content/uploads/2018/02/logo-2018-social.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>RADIO MANIA</title>
+<link>http://shout35.crossradio.com.br:8086/1/;</link>
+<thumbnail>http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/JIA84qF-Kj8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>SKY NEWS</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244</thumbnail>
+<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244</fanart>
+<info>SKYNews</info>
+</item>
+
+<item>
 <title>ANOS 70</title>
 <link>http://192.99.150.31:8241/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
@@ -24,6 +71,14 @@
 <link>http://6d9a.webradio.upx.net.br:9940/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title> Reggae </title>
+<link>http://192.99.150.31:8715</link>
+<thumbnail>https://goo.gl/TBKbAm</thumbnail>
+<fanart>https://goo.gl/TBKbAm</fanart>
+<info></info>
 </item>
 
 <item>
