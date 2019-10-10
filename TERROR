@@ -1,3 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layouttype>thumbnail</layouttype> 
+
+<item>
+<title>NOSSO SONHO</title>
+<link>http://i.imgur.com/XTo1RyM.png</link>
+<thumbnail>http://i.imgur.com/XTo1RyM.png</thumbnail>
+<fanart></fanart>
+<info>..</info>
+<genre>..</genre>
+</item>
+
+<item>
+<title>sublink:#
+sublink:#</title>
+<link></link>
+<thumbnail>..</thumbnail>
+<fanart>..</fanart>
+<info>..</info>
+<genre>..</genre>
+</item>
+
+
+
 <item>
 <title>Nós (2019)</title>
 <link>http://maxptv.ddns.net:25461/movie/gerson/123/297.MKV</link>
@@ -73,7 +98,7 @@
 <item>
 <title>Annabelle (2014)</title>
 <link>
-sublink:magnet:?xt=urn:btih:150918d3cb46e26f2ba4ab3c5c75c2242cd6ad79&dn=Annabelle+-+BluRay+Dublado+5.1+1080p+%282014%29&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
+sublink:magnet:?xt=urn:btih:150918d3cb46e26f2ba4ab3c5c75c2242cd6ad79&dn=Annabelle+-+BluRay+Dublado+5.1+1080p+%282014%29&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJVrAvOmhof5AxCFba5FGw3ezeY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/eTYfDDee623ci4ozhUa6zBqeWok.jpg</fanart>
