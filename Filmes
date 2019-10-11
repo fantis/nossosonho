@@ -56,4 +56,12 @@
 <info>BOMBA NOS ALEMÃO</info>
 </channel>
 
+<channel>
+<name>FAROESTE</name>
+<thumbnail>http://images.gofreedownload.net/westerns-84515.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FAROESTE</externallink>
+<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>MUITO TIRO DE REVOLVINHO</info>
+</channel>
+
 </channels>
