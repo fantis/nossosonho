@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]3% (2016)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5Alw16Y95imaX8WOV1lngUTuXE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/3%25</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rpE8y03ZgsjTCHAlZQbjMIocJRz.jpg</fanart>
+<info>Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]Sob Pressão (2017)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lndWYJnQArXkCGFvpenPVQadmCO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SOBPRESSAO</externallink>
