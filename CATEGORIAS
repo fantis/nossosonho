@@ -12,6 +12,18 @@
 
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SUCESSOS DE BILHETERIA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/32/items/series_201910/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/CLASSICOS</externallink>
+<fanart>https://ia801505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- OS MELHORES CLASSICOS DE TODOS OS TEMPOS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]THE BEST SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/32/items/series_201910/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/d91116c8a32b0ca369cfe5f64213cfe887fbc349/SERIES</externallink>
@@ -29,6 +41,18 @@
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SERIES</externallink>
 <fanart>https://ia801505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES INFANTIS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/32/items/series_201910/desenhos.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/FILMES%20INFANTIS</externallink>
+<fanart>https://ia801505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
