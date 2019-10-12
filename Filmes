@@ -9,6 +9,14 @@
 </channel>
 
 <channel>
+<name>AÇÃO</name>
+<thumbnail>https://i.vimeocdn.com/portrait/13041553_300x300.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACAO</externallink>
+<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<info>MUITA AÇÃO</info>
+</channel>
+
+<channel>
 <name>LUTA</name>
 <thumbnail>https://ia801409.us.archive.org/9/items/terror_201910/LUTA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LUTA</externallink>
