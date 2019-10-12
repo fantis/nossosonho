@@ -1,6 +1,14 @@
 <item>
-<title> FM O DIA TV</title>
-<link>http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8</link>
+<title>BIG MIX</title>
+<link>https://servidor39-1.brlogic.com:8130/live</link>
+<thumbnail>https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png</thumbnail>
+<fanart>https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FM O DIA</title>
+<link>http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png</thumbnail>
 <fanart>http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png</fanart>
 <info></info>
