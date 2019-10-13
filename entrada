@@ -1,17 +1,13 @@
-
-
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON NOSSO SONHO[/COLOR] [COLOR orangered]|||
-
-[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801505.us.archive.org/13/items/icon_20191001_201910/benvindo.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR red]ADDON PIRATES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/14/items/icon_20191013/icon.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - O MELHOR CONTEÚDO PARA TODA SUA FAMILIA - [COLOR deeppink]|[/COLOR]</info>
+[COLOR red]|[/COLOR] - O MELHOR CONTEÚDO PARA TODA SUA FAMILIA - [COLOR red]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -19,16 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||
-
-[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801505.us.archive.org/13/items/icon_20191001_201910/entrar.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/CATEGORIAS</externallink>
-<fanart>https://ia601505.us.archive.org/13/items/icon_20191001_201910/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/14/items/icon_20191013/icon.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - TV AO VIVO, FILMES, DESENHOS E SERIES NA PALMA DA SUA MÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR red]|[/COLOR] - TV AO VIVO, FILMES, DESENHOS, SERIES E RADIOS - [COLOR red]|[/COLOR]</info>
 </channel>
 </channels>
 
