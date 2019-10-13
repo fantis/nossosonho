@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR white][B]Animal Planet HD[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734
 
 
@@ -10,24 +10,36 @@
 </item>
 
 <item>
-<title>Animal Planet HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18734</link>
-<thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22337
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>Animal Planet SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22337</link>
-<thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]Discovery Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18701
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>Discovery Channel HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18701</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]Discovery Channel[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18702
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
+ 
 </item>
 
 <item>
