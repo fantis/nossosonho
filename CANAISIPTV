@@ -1,4 +1,24 @@
 <item>
+<title>[COLOR crimson]I[/COLOR][COLOR slategray]P[/COLOR][COLOR peachpuff]T[/COLOR][COLOR magenta]V[/COLOR][COLOR sandybrown]ON[/COLOR][COLOR gold]NOSSO SONHO[/COLOR]  [B][COLOR white]GLOBORJHD[/COLOR][/B]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET#
+</link>
+<thumbnail>https://i.imgur.com/10LbyeN.png</thumbnail>
+<fanart>https://i.imgur.com/10LbyeN.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR crimson]I[/COLOR][COLOR slategray]P[/COLOR][COLOR peachpuff]T[/COLOR][COLOR magenta]V[/COLOR][COLOR sandybrown]ON[/COLOR][COLOR gold]NOSSO SONHO[/COLOR]  [B][COLOR white]GLOBORJHD[/COLOR][/B]</title>
+<link>
+sublink:plugin://plugin.video.F4mProxy/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET#
+</link>
+<thumbnail>https://i.imgur.com/10LbyeN.png</thumbnail>
+<fanart>https://i.imgur.com/10LbyeN.png</fanart>
+<info></info>
+</item>
+
+<item>
 <title>Animal Planet HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18734</link>
 <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
