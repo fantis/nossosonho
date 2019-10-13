@@ -1,4 +1,11 @@
 <item>
+<title>LISTA DE CANAIS - ADDON NOSSO SONHO</title>
+<link>http://</link>
+<thumbnail>https://st2.depositphotos.com/6549538/11770/v/950/depositphotos_117705034-stock-illustration-modern-professional-pirates-logo-for.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734
 
@@ -912,232 +919,353 @@
 </item>
 
 <item>
-<title>Telecine Action HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18551</link>
+<title>[COLOR white][B]Telecine Action[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18551
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/telecineaction.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Telecine Cult HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18549</link>
+<title>[COLOR white][B]Telecine Cult[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18549
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/telecinecult.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Telecine Fun HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18547</link>
+<title>[COLOR white][B]Telecine Fun[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18547
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/telecinefun.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Telecine Pipoca HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18545</link>
+<title>[COLOR white][B]Telecine Pipoca[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18545
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/telecinepipoca.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Telecine Premium HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18543</link>
+<title>[COLOR white][B]Telecine Premium[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18543
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/telecinepremium.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Telecine Touch HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18541</link>
+<title>[COLOR white][B]Telecine Touch[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18541
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/telecinetouch.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>TLC HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22358</link>
+<title>[COLOR white][B]TLC[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22358
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/tlc.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>TNT HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22357</link>
+<title>[COLOR white][B]TNT[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22357
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/tnt.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>TNT Series HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18534</link>
+<title>[COLOR white][B]TNT Series[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18534
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/tntseries.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>HBO HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18637</link>
+<title>[COLOR white][B]HBO[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18637
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/hbo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>HBO 2 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18640</link>
+<title>[COLOR white][B]HBO 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18640
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/hbo2.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>HBO Family HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18638</link>
+<title>[COLOR white][B]HBO Family[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18638
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/hbofamily.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>HBO Plus HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22399</link>
+<title>[COLOR white][B]HBO Plus[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22399
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/hboplus.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>HBO Signature HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18633</link>
+<title>[COLOR white][B]HBO Signature[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18633
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/hbosignature.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Max HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18623</link>
+<title>[COLOR white][B]Max HD[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18623
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/max.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Max Prime HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18621</link>
+<title>[COLOR white][B]Max Prime[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18621
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/maxprime.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Max UP HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18619</link>
+<title>[COLOR white][B]Max UP[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18619
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/maxup.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Megapix HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18617</link>
+<title>[COLOR white][B]Megapix[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18617
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/megapix.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Megapix SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18618</link>
-<thumbnail>http://static.psrv.io/logos/canais/megapix.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Paramount[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18596
 
-<item>
-<title>Paramount HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18596</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/paramount.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Sony HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22437</link>
+<title>[COLOR white][B]Sony[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22437
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/sony.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Space HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18564</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]Space[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18564
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+<thumbnail>https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>Studio Universal HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18556</link>
+<title>[COLOR white][B]Studio Universal[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18556
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/studiouniversal.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Universal Channel HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18520</link>
+<title>[COLOR white][B]Universal Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18520
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/universalchannel.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Warner Channel HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18513</link>
+<title>[COLOR white][B]Warner Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18513
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/warner.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>MTV HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18615</link>
+<title>[COLOR white][B]MTV[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18615
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/mtv.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>MTV Live HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18507</link>
+<title>[COLOR white][B]MTV Live[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18507
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/mtvlive.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Multishow HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18613</link>
+<title>[COLOR white][B]Multishow[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18613
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/multishow.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Music Box Brasil HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18611</link>
+<title>[COLOR white][B]Music Box Brasil[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18611
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/musicboxbrazil.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>OFF HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22384</link>
+<title>[COLOR white][B]OFF[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22384
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/off.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>VH1 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18518</link>
+<title>[COLOR white][B]VH1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18518
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/vh1.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Viva HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18515</link>
+<title>[COLOR white][B]Viva[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18515
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/viva.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Woohoo HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18511</link>
+<title>[COLOR white][B]Woohoo[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18511
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/woohoo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
