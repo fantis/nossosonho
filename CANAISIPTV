@@ -1,4 +1,15 @@
 <item>
+<title>[COLOR white][B]Animal Planet HD[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
+ 
+</item>
+
+<item>
 <title>Animal Planet HD</title>
 <link>http://psrv.io:80/fgy0mcZW2k/trixotv/18734</link>
 <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
