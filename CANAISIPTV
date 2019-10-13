@@ -296,235 +296,300 @@
 </item>
 
 <item>
-<title>ESPN 2 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18678</link>
+<title>[COLOR white][B]ESPN 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18678
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/espn2.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>ESPN Brasil HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18676</link>
+<title>[COLOR white][B]ESPN Brasil[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18676
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/espnbrasil.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>ESPN Extra HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18674</link>
+<title>[COLOR white][B]ESPN Extra[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18674
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/espnextra.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>ESPN HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18673</link>
+<title>[COLOR white][B]ESPN[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18673
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/espn.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Fox Sports 2 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18657</link>
+<title>[COLOR white][B]Fox Sports 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18657
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/foxsports2.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Fox Sports HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18659</link>
+<title>[COLOR white][B]Fox Sports[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18659
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/foxsports1.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>INTERNACIONAL CHAMPIONS 2019 [HD]</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/26193</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]INTERNACIONAL CHAMPIONS 2019[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26193
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+<thumbnail>https://3.bp.blogspot.com/-TnRKI2MSTIA/XHUljhISk9I/AAAAAAAB1Ug/yXd2bGZqKMYYu7W9tsjkqI_Mqf_-rIJdgCLcBGAs/s1600/iccc-logo%2B%25281%2529.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>Copa Brasileirao Serie C [HD]</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/26197</link>
+<title>[COLOR white][B]Copa Brasileirao Serie C[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26197
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Copa Libertadores [HD]</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/26195</link>
+<title>[COLOR white][B]Copa Libertadores[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26195
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Copa Sul Americana [HD]</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/26196</link>
+<title>[COLOR white][B]Copa Sul Americana[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26196
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>BandSports HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18723</link>
+<title>[COLOR white][B]BandSports[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18723
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/bandsports.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Bis HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18721</link>
+<title>[COLOR white][B]Bis[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18721
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/bis.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Bis SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18722</link>
-<thumbnail>https://static.psrv.io/logos/canais/bis.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]NatGeo Kids[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18607
 
-<item>
-<title>NatGeo Kids HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18607</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/natgeokids.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
-
 <item>
-<title>Boomerang HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18718</link>
+<title>[COLOR white][B]Boomerang[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18718
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/boomerang.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Boomerang SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18719</link>
-<thumbnail>https://static.psrv.io/logos/canais/boomerang.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]BabyTV[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18729
 
-<item>
-<title>BabyTV SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18729</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/babytv.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Cartoon Network HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18711</link>
+<title>[COLOR white][B]Cartoon Network[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18711
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/cartoon.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Cartoon Network SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18712</link>
-<thumbnail>https://static.psrv.io/logos/canais/cartoon.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Discovery Kids[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18695
 
-<item>
-<title>Discovery Kids HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18695</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoverykids.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery Kids SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18696</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverykids.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Disney[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18685
 
-<item>
-<title>Disney HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18685</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/disney.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Disney SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18686</link>
-<thumbnail>https://static.psrv.io/logos/canais/disney.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Disney Jr[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18509
 
-<item>
-<title>Disney Jr HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18509</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/disneyjr.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Disney Jr SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18684</link>
-<thumbnail>https://static.psrv.io/logos/canais/disneyjr.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Disney XD[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22422
 
-<item>
-<title>Disney XD HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22422</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/disneyxd.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Disney XD SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18683</link>
-<thumbnail>http://static.psrv.io/logos/canais/disneyxd.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Gloob HD[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18649
 
-<item>
-<title>Gloob HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18649</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/gloob.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Gloobinho HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18648</link>
+<title>[COLOR white][B]Gloobinho[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18648
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/gloobinho.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Nick Jr HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18602</link>
+<title>[COLOR white][B]Nick Jr[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18602
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/nickjr.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Nickelodeon HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18600</link>
+<title>[COLOR white][B]Nickelodeon[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18600
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/nick.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Tooncast HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22355</link>
+<title>[COLOR white][B]Tooncast[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22355
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/tooncast.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>TV Ra Tim Bum HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22343</link>
+<title>[COLOR white][B]TV Ra Tim Bum[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22343
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/ratimbum.png</thumbnail>
-<fanart></fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR white][B]TV Ra Tim Bum[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22343
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+<thumbnail>http://static.psrv.io/logos/canais/ratimbum.png</thumbnail>
+ 
 </item>
 
 <item>
