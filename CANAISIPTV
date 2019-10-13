@@ -43,185 +43,256 @@
 </item>
 
 <item>
-<title>Discovery Channel SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18702</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]ID: Investigacao Discovery[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18629
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/id.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>ID: Investigacao Discovery HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18629</link>
-<thumbnail>https://static.psrv.io/logos/canais/id.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]ID: Investigacao Discovery[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18630
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/id.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>ID: Investigacao Discovery SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18630</link>
-<thumbnail>https://static.psrv.io/logos/canais/id.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]History Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18631
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/history.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>History Channel HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18631</link>
-<thumbnail>https://static.psrv.io/logos/canais/history.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]H2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18643
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/h2.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>H2 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18643</link>
-<thumbnail>https://static.psrv.io/logos/canais/h2.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]H2[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18644
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/h2.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>H2 SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18644</link>
-<thumbnail>https://static.psrv.io/logos/canais/h2.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]Discovery Civilization[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18699
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/discoverycivilization.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>Discovery Civilization HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18699</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverycivilization.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR white][B]Discovery Civilization[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18700
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
+ <thumbnail>https://static.psrv.io/logos/canais/discoverycivilization.png</thumbnail>
+ 
 </item>
 
 <item>
-<title>Discovery Civilization SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18700</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverycivilization.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Discovery H&H[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18697
 
-<item>
-<title>Discovery H&H HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18697</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryh%26h.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery H&H SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18698</link>
+<title>[COLOR white][B]Discovery H&H[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18698
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryh%26h.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery Science HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18693</link>
+<title>[COLOR white][B]Discovery Science[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18693
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryscience.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery Science SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18693</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryscience.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]Discovery Theater[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18691
 
-<item>
-<title>Discovery Theater HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18691</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoverytheater.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery Theater SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18692</link>
+<title>[COLOR white][B]Discovery Theater[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18692
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoverytheater.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery Turbo HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18689</link>
+<title>[COLOR white][B]Discovery Turbo[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18689
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryturbo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery Turbo SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18690</link>
+<title>[COLOR white][B]Discovery Turbo[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18690
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryturbo.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery World HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18687</link>
+<title>[COLOR white][B]Discovery World[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18687
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryworld.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Discovery World SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18688</link>
+<title>[COLOR white][B]Discovery World[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18688
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/discoveryworld.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>NatGeo HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22389</link>
+<title>[COLOR white][B]NatGeo[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22389
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/nationalgeographic.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>NatGeo Wild HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18606</link>
+<title>[COLOR white][B]NatGeo Wild[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18606
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/natgeowild.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Arte 1 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18732</link>
+<title>[COLOR white][B]Arte 1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18732
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/arte1.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Arte 1 SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18733</link>
-<thumbnail>https://static.psrv.io/logos/canais/arte1.png</thumbnail>
-<fanart></fanart>
-</item>
+<title>[COLOR white][B]E![/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22421
 
-<item>
-<title>E! HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22421</link>
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>http://static.psrv.io/logos/canais/e%21.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>EI Plus 1 HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/22978</link>
+<title>[COLOR white][B]EI Plus 1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22978
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_622957-MLB31668556583_082019-F.jpg</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Combate HD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18707</link>
+<title>[COLOR white][B]Combate[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18707
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/combate.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
-<title>Combate SD</title>
-<link>http://psrv.io:80/fgy0mcZW2k/trixotv/18708</link>
+<title>[COLOR white][B]Combate[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18708
+
+
+&amp;streamtype=TSDOWNLOADER&amp;name=*
+</link>
 <thumbnail>https://static.psrv.io/logos/canais/combate.png</thumbnail>
-<fanart></fanart>
+ 
 </item>
 
 <item>
