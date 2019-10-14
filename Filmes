@@ -8,7 +8,7 @@
 <channels>
 
 <channel>
-<name>LANCAMENTO</name>
+<name>LANÇAMENTO</name>
 <thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/LANCAMENTOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LANCAMENTOS</externallink>
 <fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
@@ -32,7 +32,7 @@
 </channel>
 
 <channel>
-<name>COMEDIA</name>
+<name>COMÉDIA</name>
 <thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/COMEDIA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/COMEDIA</externallink>
 <fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
@@ -48,7 +48,7 @@
 </channel>
 
 <channel>
-<name>FICCAO</name>
+<name>FICÇÃO</name>
 <thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/FICCAO.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FICCAO</externallink>
 <fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
