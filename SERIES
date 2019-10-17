@@ -8,6 +8,15 @@
 </channels>
 
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]The Walking Dead (2010)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/reKs8y4mPwPkZG99ZpbKRhBPKsX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/thewalkingdead</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
+<info>Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter viva a raça humana.</info>
+</channel>
+</channels>
+
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]Ben-Hur (2010)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK3id7GF39lsnD1YO1Y7I9StO7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BENHUR</externallink>
