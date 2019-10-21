@@ -17,6 +17,16 @@
 </channels>
 
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]O Negócio (2013)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK3id7GF39lsnD1YO1Y7I9StO7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ONEGOCIO</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwXJlHFkvTVAo00L3bJq9RB2m5k.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d7pUDjN3n0VUBcQf7jmSKligfk.jpg</fanart>
+<info>Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) são profissionais naquilo que fazem. Sem perspectiva de melhorar a profissão, elas percebem que por trás de qualquer bom trabalho há uma excelente estratégia de marketing. Então, por que não aplicar essas técnicas à profissão mais antiga do mundo? Assim, as três garotas de programa estão prestes a se tornar mulheres de negócio.</info>
+</channel>
+</channels>
+
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]Ben-Hur (2010)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK3id7GF39lsnD1YO1Y7I9StO7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BENHUR</externallink>
