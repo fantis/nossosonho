@@ -236,202 +236,92 @@
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/foodnetwork-100x100.png</fanart>
 </item>
 
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>[COLOR white][B]Canal Brasil[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18716
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/canalbrasil.png</thumbnail>
- 
+<title>Futura[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://caikron.com.br:1935/unipar/tvup/chunklist_w84050164.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/futura-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/futura-100x100.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Cancao Nova[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18713
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/cancaonova.png</thumbnail>
- 
+<title>SBT[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://172.105.148.165/hls/s:104.237.6.239:81/sbtsp_2a5ac580_0122b1982e0b6bc6fda1387acae64bf6f5f6a792/410p_860kbit/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Futura[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18655
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/futura.png</thumbnail>
- 
+<title>BandNews[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_c43eae706b9b8a2d76965a612d95cfdb73213989.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/bandnews.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/bandnews.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]SBT RJ[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22458
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/sbt.png</thumbnail>
- 
+<title>BAND[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_480c7792c8a97c67e622e66946e1b0296368edd4/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/band.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/band.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Record News[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18577
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/recordnews.png</thumbnail>
- 
+<title>Globo News[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_f5873f3320b36f4fce6729043ddd950748977115.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/globonews.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/globonews.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Band RJ[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22460
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/band.png</thumbnail>
- 
+<title>Globo RJ[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_ec3daf767708916adb5f8841444638d78a408225/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]BandNews[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18725
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/bandnews.png</thumbnail>
- 
+<title>FX[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/fx_667be543_b670992435294a165f827d70068eb3ba5ad5d729/720p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/fx.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/fx.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Globo News[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18651
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/globonews.png</thumbnail>
- 
+<title>Cinemax[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_edb26d6850da1842875a9d205791378026a1de24/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/cinemax.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/cinemax.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Globo RJ[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18416
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/globo.png</thumbnail>
- 
+<title>Comedy Central[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_da3d3bfc5460be36aac242361e0361324be312d0/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/comedycentral.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/comedycentral.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Globo RJ[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18417
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/globo.png</thumbnail>
- 
+<title>Fox[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_1a59ba86d9eddaa5a318795ae25409edbf5946fa/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/fox.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/fox.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]FX[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18653
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/fx.png</thumbnail>
- 
+<title>Fox Life[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxlife_66435217_bac98c8f0bb9ab54c993cad6a88eb4ec895c4779.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/foxlife.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/foxlife.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Cinemax[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18709
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/cinemax.png</thumbnail>
- 
+<title>Fox Premium 1[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_0b899c20c669247a85ff9c385b278596d94bcb97.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Comedy Central[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18705
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/comedycentral.png</thumbnail>
- 
+<title>Fox Premium 2[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium2_2456caf1_e1443cc7b271a9f7398c011243b9cfb089efd69f.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/foxpremium2.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/foxpremium2.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Fox[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18667
 
 
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/fox.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Fox Life[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18665
 
 
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/foxlife.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Fox Premium 1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18663
 
 
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/foxpremium1.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Fox Premium 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18661
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/foxpremium2.png</thumbnail>
- 
-</item>
 
 <item>
 <title>[COLOR white][B]A&E[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
