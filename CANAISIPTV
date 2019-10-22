@@ -6,14 +6,10 @@
 </item>
 
 <item>
-<title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/animalplanet_e114c448_82a5ba7c6be02044f8579a52d994c25c6400cc0b/480p/chunklist.m3u8
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
- 
+<title>Animal Planet[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/animalplanet_e114c448_82a5ba7c6be02044f8579a52d994c25c6400cc0b/480p/chunklist.m3u8</link>
+<thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
+<fanart>https://static.psrv.io/logos/canais/animalplanet.png</fanart>
 </item>
 
 <item>
