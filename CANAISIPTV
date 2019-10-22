@@ -316,78 +316,48 @@
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/foxpremium2.png</fanart>
 </item>
 
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white][B]A&E[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18738
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/a%26e.png</thumbnail>
- 
+<title>A&E[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_7217213f408083e4184b15ba543ac3f75cff6f2f/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/ae.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/ae.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]AMC[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18736
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/amc.png</thumbnail>
- 
+<title>AMC[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/amcbrasil_b7f5113f_80c88b0677be1a1d849ba34bdac768b322b0f086/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/amc.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/amc.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]AXN[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18730
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/axn.png</thumbnail>
- 
+<title>AXN[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/axn_cb7a1d77_f9fe67f96d34400b3ecefc601e104f2fa36d31e5/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/axn.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/axn.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]GNT[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18645
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/gnt.png</thumbnail>
- 
+<title>GNT[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/gnt_c439c60b_3988ee32b1f8610077ad226ef0204f31b250e5aa/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/gnt.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/gnt.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Syfy[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18566
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/syfy.png</thumbnail>
- 
+<title>Syfy[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/syfy_097ccd4f_2aaf329b686f0651053bf5365c138578f1b95466/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/syfy.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/syfy.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]TCM[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18553
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/tcm.png</thumbnail>
- 
+<title>TCM[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/tcm_13b72490_0a52b266b691076e717ebe135f23cd167e9dac2c/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcm.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tcm.png</fanart>
 </item>
+
+
+
+
+
+
+
 
 <item>
 <title>[COLOR white][B]Telecine Action[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
