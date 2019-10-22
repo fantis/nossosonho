@@ -62,543 +62,189 @@
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery H&H[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvnanet.xyz:8890/live/palmeiras/champions/94.m3u8
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryh%26h.png</thumbnail>
- 
+<title>Discovery Science[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryscience_77c8184f_c836d9f27abfec2573233d7fce77e99283827baf.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/discoveryscience.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/discoveryscience.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery H&H[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18698
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryh%26h.png</thumbnail>
- 
+<title>Discovery Theater[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://tvnanet.xyz:8890/live/palmeiras/champions/96.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/theaterhd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/theaterhd.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Science[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18693
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryscience.png</thumbnail>
- 
+<title>Discovery Turbo[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/discoveryturbo_ca3512f4_0f76bb699f9d6db973e192133b16239f97d3589e/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Theater[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18691
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverytheater.png</thumbnail>
- 
+<title>Discovery World[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryworld_68b79337_6c5eac9a04c014239f86b35553e95bab2d5b9b6e.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/discoveryworld.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/discoveryworld.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Theater[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18692
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverytheater.png</thumbnail>
- 
+<title>NatGeo[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/nationalgeographic_2e01e174_b2c80875b0d1aa7a63cdfc7eb3be03e3aac64bc5/720p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Turbo[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18689
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryturbo.png</thumbnail>
- 
+<title>NatGeo Wild[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/natgeowild_e4dd8a3f_afbc4a4f82ec1201a5d423ef69784179045e6cc7/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/natgeo.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/natgeo.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Turbo[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18690
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryturbo.png</thumbnail>
- 
+<title>Arte 1[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/arte1_cf94db48_58bcf7eff791c40f798a3d3d074bd6a2bc8e0d87.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/arte1.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/arte1.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery World[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18687
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryworld.png</thumbnail>
- 
+<title>Combate[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_1ef83c6eae9306af822bfcfc18daab6229e153d5/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/combate.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/combate.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery World[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18688
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoveryworld.png</thumbnail>
- 
+<title>ESPN Brasil[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_22088035f8f91f386f242ba0144079b33a91c258/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/espnbrasil.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/espnbrasil.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]NatGeo[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22389
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/nationalgeographic.png</thumbnail>
- 
+<title>Fox Sports 2[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_170454a650ff577af8e95944df2099b534177aa8.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/foxsports2hd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/foxsports2hd.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]NatGeo Wild[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18606
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/natgeowild.png</thumbnail>
- 
+<title>Bis[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bis_53e56691_1197f64793b23ca66a324af0415e91fac347f850.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/bis.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/bis.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Arte 1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18732
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/arte1.png</thumbnail>
- 
+<title>NatGeo Kids[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_3761c9fb1680380fbc0fe7b3e04b8747f4953cf5.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/natgeokids.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/natgeokids.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]E![/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22421
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/e%21.png</thumbnail>
- 
+<title>Boomerang[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_068b209d42bc7d069de80a2c26a86e88d024364b.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/boomerang.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/boomerang.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EI Plus 1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22978
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_622957-MLB31668556583_082019-F.jpg</thumbnail>
- 
+<title>Cartoon Network[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/cartoonnetwork_511a418e_6825c871f77ee163173d16a4ee1523ac58c3bd5a/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Combate[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18707
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/combate.png</thumbnail>
- 
+<title>Discovery Kids[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/discoverykids_80e28a51_95e45cbe36bc594d31aaf9490c77bfbcdd2efca8/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/dicoverykids.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/dicoverykids.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Combate[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18708
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/combate.png</thumbnail>
- 
+<title>Disney Channel[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/disneychannel_a9334987_8c90dd0a7704fb43170853985912075afb2710b3/410p_820kbit/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]ESPN 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18678
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/espn2.png</thumbnail>
- 
+<title>Disney XD[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>https://r1---sn-gpv7eney.c.2mdn.net/videoplayback/id/e560568deef608a4/itag/344/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3716133570/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/738A4BA4D196F1DFD1101CD26C5153DD79717353.842AE2C96C6C150A3B0661513A5324D8B7A118CF/key/cms1/cms_redirect/yes/mip/138.97.64.50/mm/42/mn/sn-gpv7eney/ms/onc/mt/1571763700/mv/m/mvi/0/pl/24/file/file.mp4</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]ESPN Brasil[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18676
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/espnbrasil.png</thumbnail>
- 
+<title>Gloob[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/gloob_04f1241e_8677343902214a81d0d56f4030f462474c1fec9f/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/gloob.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/gloob.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]ESPN Extra[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18674
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/espnextra.png</thumbnail>
- 
+<title>Nick jr[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/nickjr_54ceb912_8dc85fcd7fdba19ce9aa344d65d00e1a8042097c/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/nickjr.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/nickjr.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]ESPN[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18673
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/espn.png</thumbnail>
- 
+<title>Nickelodeon[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/nickelodeon_bc33ea4e_35f9a8f750d478baff6bead346a396d369fcd129/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/nick.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/nick.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Fox Sports 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18657
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/foxsports2.png</thumbnail>
- 
+<title>Tooncast[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/tooncast_8effee40_c2493d1a099b1b2a0597e644a63475607c2bc3d9/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tooncast.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tooncast.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Fox Sports[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18659
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/foxsports1.png</thumbnail>
- 
+<title>Lifetime[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/lifetime_7a9ca14d_d26caf220f784b38eed9164408a4e689b7b09d39.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/lifetime-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/lifetime-100x100.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]INTERNACIONAL CHAMPIONS 2019[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26193
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://3.bp.blogspot.com/-TnRKI2MSTIA/XHUljhISk9I/AAAAAAAB1Ug/yXd2bGZqKMYYu7W9tsjkqI_Mqf_-rIJdgCLcBGAs/s1600/iccc-logo%2B%25281%2529.png</thumbnail>
- 
+<title>Curta![COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canalcurta_9d6ad3cc_89c6ebf01108c2d5dc6ff6f3fd5bf68b0d431b70.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/canalcurta.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/canalcurta.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Copa Brasileirao Serie C[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26197
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png</thumbnail>
- 
+<title>Fish TV[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fishtv_e77a7633_c98e9d700b01fca3e5ab009c014019212c678cb5.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/fishtv.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/fishtv.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Copa Libertadores[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26195
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png</thumbnail>
- 
+<title>Food Network[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_5e5b81b3f585b975abaa3896c58c7b77e53a3a1a/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/foodnetwork-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/foodnetwork-100x100.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Copa Sul Americana[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/26196
 
 
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png</thumbnail>
- 
-</item>
 
-<item>
-<title>[COLOR white][B]BandSports[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18723
 
 
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/bandsports.png</thumbnail>
- 
-</item>
 
-<item>
-<title>[COLOR white][B]Bis[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18721
 
 
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/bis.png</thumbnail>
- 
-</item>
 
-<item>
-<title>[COLOR white][B]NatGeo Kids[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18607
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/natgeokids.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Boomerang[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18718
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/boomerang.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]BabyTV[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18729
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/babytv.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Cartoon Network[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18711
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/cartoon.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Discovery Kids[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18695
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/discoverykids.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Disney[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18685
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/disney.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Disney Jr[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18509
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/disneyjr.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Disney XD[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22422
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/disneyxd.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Gloob HD[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18649
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/gloob.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Gloobinho[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18648
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/gloobinho.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Nick Jr[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18602
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/nickjr.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Nickelodeon[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18600
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/nick.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Tooncast[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22355
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/tooncast.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]TV Ra Tim Bum[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22343
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/ratimbum.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]TV Ra Tim Bum[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22343
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/ratimbum.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Lifetime[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18627
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/lifetime.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Mais GloboSat[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18625
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/maisglobosat.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Curta![/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18703
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/curta.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Film & Arts[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18497
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/film&arts.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Fish TV[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18671
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/fishtv.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Food Network[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18669
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/foodnetwork.png</thumbnail>
- 
-</item>
 
 <item>
 <title>[COLOR white][B]Canal Brasil[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
