@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=https://live.multicanais.com/live/animalplanetsd/chunks.m3u8?md5=tGY7YoM6eyE5q4OTRGf4aA&expires=1571745986
+<link>plugin://plugin.video.f4mTester/?url=http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/animalplanet_e114c448_82a5ba7c6be02044f8579a52d994c25c6400cc0b/480p/chunklist.m3u8
 
 
 &amp;streamtype=TSDOWNLOADER&amp;name=*
