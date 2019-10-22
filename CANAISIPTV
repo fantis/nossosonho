@@ -13,124 +13,52 @@
 </item>
 
 <item>
-<title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18734
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
- 
+<title>Discovery Channel[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/discoverychannel_af3e1334_3e7b956b8869f4c91aead16812b42b6243cd8351/480p/chunklist.m3u8</link>
+<thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
+<fanart>https://static.psrv.io/logos/canais/discoverychannel.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Animal Planet[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22337
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/animalplanet.png</thumbnail>
- 
+<title>ID: Investigacao Discovery[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://tvnanet.xyz:8890/live/palmeiras/champions/89.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/id.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/id.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18701
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
- 
+<title>History Channel[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/historyopcao2_00a8a5c3_1a7e9d7d903109bc629134dc2bb374b481ccc7fa/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/historyhd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/historyhd.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]Discovery Channel[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18702
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/discoverychannel.png</thumbnail>
- 
+<title>History Channel[COLOR orange][B]SD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/history_b7eb6c68_0187e95f21503ffeacaceaa19ddd4245b43987a3/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/history.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/history.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]ID: Investigacao Discovery[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18629
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/id.png</thumbnail>
- 
+<title>H2[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/h2_2bfba6b3_ee3bdbfacdaf428c135793463b1e10e28d542293.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/h2.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/h2.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]ID: Investigacao Discovery[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18630
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/id.png</thumbnail>
- 
+<title>Discovery Civilization[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://tvnanet.xyz:8890/live/palmeiras/champions/93.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/discoverycivilization.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/discoverycivilization.png</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]History Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18631
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/history.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]H2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18643
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/h2.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]H2[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18644
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/h2.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Discovery Civilization[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18699
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/discoverycivilization.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Discovery Civilization[/B][/COLOR] [COLOR orange][B]SD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18700
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
- <thumbnail>https://static.psrv.io/logos/canais/discoverycivilization.png</thumbnail>
- 
+<title>Discovery H&H[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://tvnanet.xyz:8890/live/palmeiras/champions/94.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png</fanart>
 </item>
 
 <item>
