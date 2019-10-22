@@ -352,361 +352,158 @@
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/tcm.png</fanart>
 </item>
 
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white][B]Telecine Action[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18551
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/telecineaction.png</thumbnail>
- 
+<title>Telecine Action[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/telecineaction_be057d4c_9e376bc33ed5f7f87d3e7cdbe3918c11100e36af/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcaction.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tcaction.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Telecine Cult[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18549
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/telecinecult.png</thumbnail>
- 
+<title>Telecine Cult[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/telecinecult_8d255e1e_74730eb87caad38ccaf17b3580539d6a365ef10d/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tccult.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tccult.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Telecine Fun[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18547
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/telecinefun.png</thumbnail>
- 
+<title>Telecine Fun[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/telecinefun_ae1e7198_ecdb9577b39a5bd08faa3ce1d2f1fde2449efc65/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcfun.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tcfun.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Telecine Pipoca[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18545
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/telecinepipoca.png</thumbnail>
- 
+<title>Telecine Pipoca[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/telecinepipoca_fd937516_00eef7c5a12507eecc19819d2647fbddfe999ed0/410p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Telecine Premium[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18543
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/telecinepremium.png</thumbnail>
- 
+<title>Telecine Premium[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/telecinepremium_a929eb33_63e9d25d5158ab0ef9df5acd7c2ab610ab8d277c/480p_920kbit/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Telecine Touch[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18541
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/telecinetouch.png</thumbnail>
- 
+<title>Telecine Touch[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/telecinetouch_74cbd2c2_a68dcc25de3280d4a75cb4d2d0357bbfd98288bd/480p/chunklist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tctouch.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tctouch.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]TLC[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22358
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/tlc.png</thumbnail>
- 
+<title>TLC[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tlc_15aa0c7e_418770ae12eb10fdc6a28d4a544d0a315e9370d0/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tlchd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tlchd.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]TNT[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22357
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/tnt.png</thumbnail>
- 
+<title>TNT[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_10043857ce8f8e44557451fe82052ab522360b74.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]TNT Series[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18534
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/tntseries.png</thumbnail>
- 
+<title>TNT Series[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_a0febd065af72e9de56361a1adf842b632472ce0.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tntseries.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/tntseries.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]HBO[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18637
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/hbo.png</thumbnail>
- 
+<title>HBO[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_676a37c7159564c8ffc4dc193490057c4fcb5561.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/hbohd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/hbohd.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]HBO 2[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18640
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/hbo2.png</thumbnail>
- 
+<title>HBO 2[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_193ff3e519bfc94632a53751ae1e7b73f4e5270c/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]HBO Family[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18638
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/hbofamily.png</thumbnail>
- 
+<title>HBO Family[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_f076e1541610fcbdc6d3dd648a514af94eaf4447/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]HBO Plus[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22399
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/hboplus.png</thumbnail>
- 
+<title>HBO Plus[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_aac7d20264fd31c3f6dacde44f9a15ef11f300f8/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]HBO Signature[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18633
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/hbosignature.png</thumbnail>
- 
+<title>Max[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_fbbad85b223f4ed438b6f6c7e80ab1ea43d4193f/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/max.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/max.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Max HD[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18623
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/max.png</thumbnail>
- 
+<title>Max Prime[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/maxprime_9c676e00_6901f9f9153471a435a93248ec0b0f5b65fedc5f/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/maxprime.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/maxprime.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Max Prime[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18621
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/maxprime.png</thumbnail>
- 
+<title>Max UP[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/maxup_ce09b127_264553ff3124ffbab376546e053077e3bd63ad3f/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/maxup.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/maxup.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Max UP[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18619
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/maxup.png</thumbnail>
- 
+<title>Megapix[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/megapix_a6f16ab4_84a3dd50186d9555852ccdbc786008811b1937c1/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/megapix.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/megapix.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Megapix[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18617
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/megapix.png</thumbnail>
- 
+<title>Paramount[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/paramountchannel_efa260ad_f6ab243542bb997270b986bdcac7e439986958b9.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/paramount-100x100.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/paramount-100x100.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Paramount[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18596
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/paramount.png</thumbnail>
- 
+<title>Space[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b14b99c964847e86a2f4fa14865b13fb61211ea9/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/space.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/space.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Sony[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22437
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/sony.png</thumbnail>
- 
+<title>Studio Universal[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b14b99c964847e86a2f4fa14865b13fb61211ea9/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/studiouniversal.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/studiouniversal.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Space[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18564
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png</thumbnail>
- 
+<title>Universal Channel[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b14b99c964847e86a2f4fa14865b13fb61211ea9/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Studio Universal[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18556
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/studiouniversal.png</thumbnail>
- 
+<title>Warner Channel[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b14b99c964847e86a2f4fa14865b13fb61211ea9/playlist.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/warner.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/warner.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Universal Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18520
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/universalchannel.png</thumbnail>
- 
+<title>MTV BRASIL[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_f4fd95f849d56d9938bd09e9c2e93ed944b43210.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/mtv.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/mtv.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]Warner Channel[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18513
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/warner.png</thumbnail>
- 
+<title>Multishow[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_436bddf02523741d7074732bf5f49ef832cff373.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/multishowhd.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/multishowhd.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]MTV[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18615
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/mtv.png</thumbnail>
- 
+<title>OFF[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_71e3f69bcaf35c33d4b7b075479c899f26c79e5d.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/canaloff.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/canaloff.png</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]MTV Live[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18507
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/mtvlive.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Multishow[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18613
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/multishow.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Music Box Brasil[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18611
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/musicboxbrazil.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]OFF[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/22384
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>http://static.psrv.io/logos/canais/off.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]VH1[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18518
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/vh1.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Viva[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18515
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/viva.png</thumbnail>
- 
-</item>
-
-<item>
-<title>[COLOR white][B]Woohoo[/B][/COLOR] [COLOR orange][B]HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/fgy0mcZW2k/trixotv/18511
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=*
-</link>
-<thumbnail>https://static.psrv.io/logos/canais/woohoo.png</thumbnail>
- 
+<title>Viva[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_71e3f69bcaf35c33d4b7b075479c899f26c79e5d.m3u8</link>
+<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/viva.png</thumbnail>
+<fanart>http://aovivo.club/wp-content/uploads/2019/07/viva.png</fanart>
 </item>
