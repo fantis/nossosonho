@@ -8,6 +8,15 @@
 </channels>
 
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]BATWOMAN (2019)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/7p1sllAKniKbzkPQw607PBTnwxL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BATWOMAN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/spc5mNkW2daK1ob7Z7jqNkSlKS2.jpg</fanart>
+<info>Kate Kane, uma jovem lésbica, decide utilizar suas altas habilidades de combate para luta contra o crime em Gotham City. Armada apenas com sua paixão por justiça e falando sempre o que pensa, Kate ainda precisa superar seus próprios demônios antes de se tornar um símbolo de esperança para os cidadãos de Gotham.</info>
+</channel>
+</channels>
+
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]The Walking Dead (2010)[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/reKs8y4mPwPkZG99ZpbKRhBPKsX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/thewalkingdead</externallink>
