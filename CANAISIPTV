@@ -273,9 +273,16 @@
 
 <item>
 <title>Disney XD[COLOR orange][B]HD[/B][/COLOR]</title>
-<link>https://r1---sn-gpv7eney.c.2mdn.net/videoplayback/id/e560568deef608a4/itag/344/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3716133570/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/738A4BA4D196F1DFD1101CD26C5153DD79717353.842AE2C96C6C150A3B0661513A5324D8B7A118CF/key/cms1/cms_redirect/yes/mip/138.97.64.50/mm/42/mn/sn-gpv7eney/ms/onc/mt/1571763700/mv/m/mvi/0/pl/24/file/file.mp4</link>
+<link>http://list.deeplist.nl:80/rep/1234/38440</link>
 <thumbnail>http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png</thumbnail>
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png</fanart>
+</item>
+
+<item>
+<title>GLOBINHO[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18648</link>
+<thumbnail>https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png</fanart>
 </item>
 
 <item>
@@ -348,16 +355,28 @@
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png</fanart>
 </item>
 
-<title>BandNews[COLOR orange][B]HD[/B][/COLOR]</title>
+<title>Band News[COLOR orange][B]HD[/B][/COLOR]</title>
 <link>http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18726</link>
 <thumbnail>http://aovivo.club/wp-content/uploads/2019/07/bandnews.png</thumbnail>
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/bandnews.png</fanart>
+</item>
+
+<title>RECORD News[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18578</link>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/9/99/Record-news.jpg</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/logopedia/images/9/99/Record-news.jpg</fanart>
 </item>
 
 <title>BAND[COLOR orange][B]HD[/B][/COLOR]</title>
 <link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_480c7792c8a97c67e622e66946e1b0296368edd4/playlist.m3u8</link>
 <thumbnail>http://aovivo.club/wp-content/uploads/2019/07/band.png</thumbnail>
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/band.png</fanart>
+</item>
+
+<title>MAIS GLOBOSAT[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18626</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png</thumbnail>
+<fanart>https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png</fanart>
 </item>
 
 <title>Globo News[COLOR orange][B]HD[/B][/COLOR]</title>
@@ -370,6 +389,12 @@
 <link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_ec3daf767708916adb5f8841444638d78a408225/playlist.m3u8</link>
 <thumbnail>http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png</thumbnail>
 <fanart>http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png</fanart>
+</item>
+
+<title>CANAL SONY[COLOR orange][B]HD[/B][/COLOR]</title>
+<link>http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18715</link>
+<thumbnail>http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png</fanart>
 </item>
 
 <title>FX[COLOR orange][B]HD[/B][/COLOR]</title>
