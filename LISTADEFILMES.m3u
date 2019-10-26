@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E01
+http://cdnfe2.azureedge.net/RCServer01/videos/038d2cf7.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E02
+http://cdnfe2.azureedge.net/RCServer01/videos/1dbaa28e.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E03
+http://cdnfe2.azureedge.net/RCServer01/videos/8887324b.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E04
+http://cdnfe2.azureedge.net/RCServer01/videos/28132bc3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E05
+http://cdnfe2.azureedge.net/RCServer01/videos/deda7c07.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnaimWkIVSD9IInmZPyLYarSvvc.jpg" group-title="Batwoman" ,S01E01
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BATWMNS01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnaimWkIVSD9IInmZPyLYarSvvc.jpg" group-title="Batwoman" ,S01E02
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BATWMNS01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnaimWkIVSD9IInmZPyLYarSvvc.jpg" group-title="Batwoman" ,S01E03
+http://cdnfe2.azureedge.net/RCServer12/ondemand/BATWMNS01EP03.mp4
