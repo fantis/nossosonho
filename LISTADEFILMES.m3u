@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg?fakeurl=1&type=.jpg" group-title="AMERICAN HORROR STORY", AMERICAN HORROR STORY
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg?fakeurl=1&type=.jpg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AMERICAN HORROR STORY", 1ª temporada: Murder House (2011)
+https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg?fakeurl=1&type=.jpg
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AHS" ,S01E01
 http://cdnfe2.azureedge.net/RCServer01/videos/038d2cf7.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AHS" ,S01E02
 http://cdnfe2.azureedge.net/RCServer01/videos/1dbaa28e.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AHS" ,S01E03
 http://cdnfe2.azureedge.net/RCServer01/videos/8887324b.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AHS" ,S01E04
 http://cdnfe2.azureedge.net/RCServer01/videos/28132bc3.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bePIx13baCg7FIeUbKyorvuIf9C.jpg" group-title="AHS" ,S01E05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AHS" ,S01E05
 http://cdnfe2.azureedge.net/RCServer01/videos/deda7c07.mp4
 ********************************************************************************************************
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/19/07/17/09/36/3600678.jpg" group-title="Batwoman - 2019", 1ª temporada
+http://br.web.img2.acsta.net/pictures/19/07/17/09/36/3600678.jpg?fakeurl=1&type=.jpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnaimWkIVSD9IInmZPyLYarSvvc.jpg" group-title="Batwoman" ,S01E01
 http://cdnfe2.azureedge.net/RCServer12/ondemand/BATWMNS01EP01.mp4
@@ -33,6 +35,8 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/BATWMNS01EP03.mp4
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPv8SWOqU42BI6AsCAhHhXy65Wb.jpg" group-title="Irmandade (2019)", 1ª temporada
+https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPv8SWOqU42BI6AsCAhHhXy65Wb.jpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPv8SWOqU42BI6AsCAhHhXy65Wb.jpg" group-title="Irmandade (2019)" ,S01E01
 https://www339.hlsmp4.com/token=YPsMte2CD3OXuckXZvYdoA/1572194473/138.97.0.0/78/0/87/bbd307d095ef521ca865483dc9f69870-480p.mp4
