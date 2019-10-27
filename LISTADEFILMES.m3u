@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg" group-title="AMERICAN HORROR STORY - 1ª temporada: Murder House (2011)
 https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/AHS_Muder_House_poster.jpg/240px-AHS_Muder_House_poster.jpg?fakeurl=1&type=.jpg
 
@@ -20,6 +21,7 @@ http://cdnfe2.azureedge.net/RCServer01/videos/deda7c07.mp4
 
 
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/19/07/17/09/36/3600678.jpg" group-title="Batwoman (2019) 1ª temporada
 http://br.web.img2.acsta.net/pictures/19/07/17/09/36/3600678.jpg?fakeurl=1&type=.jpg
 
@@ -35,6 +37,7 @@ http://cdnfe2.azureedge.net/RCServer12/ondemand/BATWMNS01EP03.mp4
 
 
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPv8SWOqU42BI6AsCAhHhXy65Wb.jpg" group-title="Irmandade (2019) 1ª temporada
 https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPv8SWOqU42BI6AsCAhHhXy65Wb.jpg
 
