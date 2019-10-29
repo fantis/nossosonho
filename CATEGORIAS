@@ -12,6 +12,18 @@
 
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TESTE SERIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SERIES2</externallink>
+<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]A FAZENDA 11 24H AO VIVO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://multicanais.com/wp-content/uploads/2019/09/A-fazenda-Ao-Vivo-Online-HD.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AFAZENDA11.m3u</externallink>
