@@ -1,18 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TESTE COLEÇÕES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://multicanais.com/wp-content/uploads/2019/09/A-fazenda-Ao-Vivo-Online-HD.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TESTECOLECAO</externallink>
-<fanart>https://segredosdomundo.r7.com/wp-content/uploads/2019/09/assistir-a-fazenda-online-24-horas-por-dia-e-possivel.jpeg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- Assistir A Fazenda online, 24 horas por dia, é possível! -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/cniptv.m3u</externallink>
@@ -30,18 +17,6 @@
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AFAZENDA11.m3u</externallink>
 <fanart>https://segredosdomundo.r7.com/wp-content/uploads/2019/09/assistir-a-fazenda-online-24-horas-por-dia-e-possivel.jpeg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- Assistir A Fazenda online, 24 horas por dia, é possível! -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]LISTA DE Series[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/FILMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LISTADEFILMES.m3u</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
