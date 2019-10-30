@@ -185,6 +185,26 @@ O projeto Treadstone, tendo criado o super espião Jason Bourne, volta sua aten�
 
 <channels></channels>
 <channel>
+<name>[COLOR lime]Watchmen (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GD0hl8SEga0pRIBueoLjr5e6Gy.jpg</fanart>
+<info>
+Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantemente pela delicada linha que separa o bem do mal em uma sociedade que os despreza.</info>
+<genre>AVENTURA</genre>
+
+<item>
+<title>Watchmen (2019) - 1ª TEMPORADA</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GD0hl8SEga0pRIBueoLjr5e6Gy.jpg</fanart>
+<link>http://download2265.mediafire.com/0649mhzvqi0g/1mnvcr5axvxyg5q/Watchmen.S01E01.720p.WEB.DUAL.mkv$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
+<link>https://download1512.mediafire.com/a42qjng3j2ag/eoo5g4naqv9d7yx/Watchmen.s01e02.720p.WEB.DUAL.mkv$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
+<info>Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantemente pela delicada linha que separa o bem do mal em uma sociedade que os despreza.</info>
+<genre>FICÇÃO</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
 <name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
