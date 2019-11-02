@@ -231,6 +231,29 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels></channels>
 <channel>
+<name>[COLOR lime]CHERNOBYL (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>AVENTURA</genre>
+
+<item>
+<title>[COLOR lime]CHERNOBYL (2019) - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AnjfCb9FmnwAY1CXkR7CA8e70OK.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vUl3rn0KUPSPpZugdQll9BDLmC_eoKb1/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QKag2OdzrosGh-nVRmad1z3ZSv5gdtBb/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a7A8qzLBmHXLgPt1gEqQq2ZAcstICUSC/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h6mJMEeBp-odBug7lFMop7x-JKo81z0H/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1996Ejs6jFCrz-nWUxcfqavKcgoNR1b4d/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
+<info>Após uma explosão na usina nuclear de Chernobyl, os funcionários avaliam os danos. Ao saber pelos relatórios que o núcleo do reator "sumiu", o engenheiro-chefe adjunto Anatoly Dyatlov envia homens para investigar. Enquanto isso, Vasily é convocado para apagar o fogo, deixando para trás sua esposa Lyudmilla. O acadêmico Valery Legasov é nomeado para a força-tarefa de Chernobyl.</info>
+<genre>AVENTURA</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
 <name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
