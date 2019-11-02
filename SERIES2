@@ -289,6 +289,29 @@ Um avião reaparece cinco anos após ter decolado, mas para os passageiros apena
 
 <channels></channels>
 <channel>
+<name>[COLOR lime]The Walking Dead[/COLOR]</name>
+<thumbnail>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-19-as-17.57.22.png</thumbnail>
+<fanart>https://i.redd.it/h9iycx94tq731.png</fanart>
+<info>
+Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter viva a raça humana.</info>
+<genre>TERROR</genre>
+
+<item>
+<title>[COLOR lime]The Walking Dead Season 10 - 2019 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-19-as-17.57.22.png</thumbnail>
+<fanart>https://i.redd.it/h9iycx94tq731.png</fanart>
+<link>http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP01.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
+<link>http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP02.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
+<link>http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP03.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
+<link>http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP04.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
+<link>http://$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
+<info>Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter viva a raça humana.</info>
+<genre>TERRROR</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
 <name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
