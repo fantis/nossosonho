@@ -1,844 +1,150 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/6549538/11770/v/950/depositphotos_117705034-stock-illustration-modern-professional-pirates-logo-for.jpg?fakeurl=1&type=.jpg" group-title="SATÉLITE - ***GOLD***", SATÉLITE - ***GOLD*** ↓↓↓
 https://st2.depositphotos.com/6549538/11770/v/950/depositphotos_117705034-stock-illustration-modern-professional-pirates-logo-for.jpg?fakeurl=1&type=.jpg
-canais 24hs
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soONRqoEJ2iyv6vbpB6a5UG8rOJ.jpg" group-title="CANAIS *24H*", A PANTERA COR DE ROSA
-http://srv01.iptvquantum.co:80/assistatv/254126/24565
-#EXTINF:-1,24H: DRAGON BALL SUPER (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/12627
-#EXTINF:-1,24H: SUPER AMIGOS (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/12620
-#EXTINF:-1,24H: SUPER VICKY (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/12619
-#EXTINF:-1,24H: TV PIRATA (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/24562
-#EXTINF:-1,24H: A PANTERA COR DE ROSA (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/24565
-#EXTINF:-1,24H: DRAGON BALL SUPER (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/12627
-#EXTINF:-1,24H: SUPER AMIGOS (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/12620
-#EXTINF:-1,24H: SUPER VICKY (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/12619
-#EXTINF:-1,24H: TV PIRATA (Q)
-http://srv01.iptvquantum.co:80/assistatv/254126/24562
-#EXTINF:-1,Cine Action 24H Ultra HD
-http://maxptv.ddns.net:25461/live/gerson/123/548.ts
-#EXTINF:-1,Tom & Jerry  24H
-http://maxptv.ddns.net:25461/live/gerson/123/557.ts
-#EXTINF:-1,The Backyardigans 24H
-http://maxptv.ddns.net:25461/live/gerson/123/558.ts
-#EXTINF:-1,Show da Luna 24H
-http://maxptv.ddns.net:25461/live/gerson/123/559.ts
-#EXTINF:-1,Pokemon 24H
-http://maxptv.ddns.net:25461/live/gerson/123/560.ts
-#EXTINF:-1,POCOYO 24H
-http://maxptv.ddns.net:25461/live/gerson/123/561.ts
-#EXTINF:-1,Peppa Pig 24H
-http://maxptv.ddns.net:25461/live/gerson/123/562.ts
-#EXTINF:-1,Os Simpsons 24H
-http://maxptv.ddns.net:25461/live/gerson/123/563.ts
-#EXTINF:-1,Naruto 24H
-http://maxptv.ddns.net:25461/live/gerson/123/564.ts
-#EXTINF:-1,Looney Tunnes 24H
-http://maxptv.ddns.net:25461/live/gerson/123/565.ts
-#EXTINF:-1,Homem-Aranha 24H
-http://maxptv.ddns.net:25461/live/gerson/123/566.ts
-#EXTINF:-1,Chaves 24H
-http://maxptv.ddns.net:25461/live/gerson/123/547.ts
-#EXTINF:-1,CDZ  Saga de Poseidon 24H
-http://maxptv.ddns.net:25461/live/gerson/123/540.ts
-#EXTINF:-1,Caverna do Dragao  24H
-http://maxptv.ddns.net:25461/live/gerson/123/539.ts
-#EXTINF:-1,Canal CSI 24H
-http://maxptv.ddns.net:25461/live/gerson/123/538.ts
-#EXTINF:-1,Black Kamen Rider 24H
-http://maxptv.ddns.net:25461/live/gerson/123/537.ts
-#EXTINF:-1,Um Maluco No Pedaco  24H
-http://maxptv.ddns.net:25461/live/gerson/123/541.ts
-#EXTINF:-1,Two And a Half Man 24H
-http://maxptv.ddns.net:25461/live/gerson/123/542.ts
-#EXTINF:-1,The Big Bang Theory 24H
-http://maxptv.ddns.net:25461/live/gerson/123/543.ts
-#EXTINF:-1,South Park 24H
-http://maxptv.ddns.net:25461/live/gerson/123/544.ts
-#EXTINF:-1,MR. Bean 24H
-http://maxptv.ddns.net:25461/live/gerson/123/546.ts
-#EXTINF:-1,MARVEL & DC 24H
-http://maxptv.ddns.net:25461/live/gerson/123/545.ts
-#EXTINF:-1,CINE Nacionais 24H
-http://maxptv.ddns.net:25461/live/gerson/123/555.ts
-#EXTINF:-1,CINE KIDS 24H ULTRA HD
-http://maxptv.ddns.net:25461/live/gerson/123/554.ts
-#EXTINF:-1,Cine Horror 24H Ultra HD
-http://maxptv.ddns.net:25461/live/gerson/123/553.ts
-#EXTINF:-1,Cine Fun 24H Ultra HD
-http://maxptv.ddns.net:25461/live/gerson/123/552.ts
-#EXTINF:-1,Cine Fiction 24H Ultra HD
-http://maxptv.ddns.net:25461/live/gerson/123/536.ts
-#EXTINF:-1,Cine Family 24H
-http://maxptv.ddns.net:25461/live/gerson/123/551.ts
-#EXTINF:-1,Cine Drama 24H Ultra HD
-http://maxptv.ddns.net:25461/live/gerson/123/550.ts
-#EXTINF:-1,24H Castelo Rá-Tim-Bum
-http://quatv2.com:8080/419296/419296/60506
-#EXTINF:-1,24H VIRA LATA
-http://quatv2.com:8080/419296/419296/60401
-#EXTINF:-1,24H O Pequeno Urso
-http://quatv2.com:8080/419296/419296/60399
-#EXTINF:-1,24H HD PATRULHA CANINA HD T02
-http://quatv2.com:8080/419296/419296/59956
-#EXTINF:-1,24H PATRULHA CANINA HD T01
-http://quatv2.com:8080/419296/419296/59955
-#EXTINF:-1,24H OS SIMPSONS PRIMEIRA DÉCADA
-http://quatv2.com:8080/419296/419296/58918
-#EXTINF:-1,24H FUTURAMA
-http://quatv2.com:8080/419296/419296/58917
-#EXTINF:-1,24H NARUTO CLASSICO
-http://quatv2.com:8080/419296/419296/58911
-#EXTINF:-1,24H THUNDERCATS
-http://quatv2.com:8080/419296/419296/58890
-#EXTINF:-1,24H SCOOB DOO
-http://quatv2.com:8080/419296/419296/58887
-#EXTINF:-1,24H JASPION
-http://quatv2.com:8080/419296/419296/58874
-#EXTINF:-1,24H POWER RANGERS
-http://quatv2.com:8080/419296/419296/55171
-#EXTINF:-1,24H CAPITÃO PLANETA
-http://quatv2.com:8080/419296/419296/55172
-#EXTINF:-1,24H OS TRAPALHÕES
-http://quatv2.com:8080/419296/419296/55173
-#EXTINF:-1,24H PEPA PIG
-http://quatv2.com:8080/419296/419296/55174
-#EXTINF:-1,24H HD Os Jovens Titãs em Ação
-http://quatv2.com:8080/419296/419296/12065
-#EXTINF:-1,24H O Mundo De Beakman
-http://quatv2.com:8080/419296/419296/43990
-#EXTINF:-1,24H Buddy Thunderstruck
-http://quatv2.com:8080/419296/419296/19150
-#EXTINF:-1,24H Lego Unigata
-http://quatv2.com:8080/419296/419296/11966
-#EXTINF:-1,24H X-Men Classico
-http://quatv2.com:8080/419296/419296/16463
-#EXTINF:-1,24H Hora De Aventura
-http://quatv2.com:8080/419296/419296/14808
-#EXTINF:-1,24H Ben 10 Omniverse
-http://quatv2.com:8080/419296/419296/16047
-#EXTINF:-1,24H Todo Mundo Odeia O Chris
-http://quatv2.com:8080/419296/419296/15963
-#EXTINF:-1,24H Vera e o Reino do Arco-Íris
-http://quatv2.com:8080/419296/419296/14058
-#EXTINF:-1,24H Paradise P.D
-http://quatv2.com:8080/419296/419296/15559
-#EXTINF:-1,24H Oggy e as Baratas Tontas
-http://quatv2.com:8080/419296/419296/14398
-#EXTINF:-1,24H  Digimon Classico
-http://quatv2.com:8080/419296/419296/14052
-#EXTINF:-1,24H Molang & Piu Piu
-http://quatv2.com:8080/419296/419296/12489
-#EXTINF:-1,24H Coragem O Cão Covarde
-http://quatv2.com:8080/419296/419296/14062
-#EXTINF:-1,24H MR. Pickles
-http://quatv2.com:8080/419296/419296/14061
-#EXTINF:-1,24H She-Ra e as Princesas do Poder
-http://quatv2.com:8080/419296/419296/16400
-#EXTINF:-1,24H Pingu
-http://quatv2.com:8080/419296/419296/10772
-#EXTINF:-1,24H Turma Da Monica
-http://quatv2.com:8080/419296/419296/10573
-#EXTINF:-1,24H Titio Avô
-http://quatv2.com:8080/419296/419296/11381
-#EXTINF:-1,24H Irmão do Jorel
-http://quatv2.com:8080/419296/419296/10572
-#EXTINF:-1,24H Masha e o Urso
-http://quatv2.com:8080/419296/419296/10571
-#EXTINF:-1,24H Jake e os Piratas da Terra do Nunca
-http://quatv2.com:8080/419296/419296/10506
-#EXTINF:-1,24H O Show dos Looney Tunes
-http://quatv2.com:8080/419296/419296/11126
-#EXTINF:-1,24H Clarêncio o Otimista
-http://quatv2.com:8080/419296/419296/11125
-#EXTINF:-1,24H OS PADRINHOS MAGICOS
-http://quatv2.com:8080/419296/419296/11124
-#EXTINF:-1,24H PATO DONALD
-http://quatv2.com:8080/419296/419296/11122
-#EXTINF:-1,24H O SHOW DA LUNA
-http://quatv2.com:8080/419296/419296/11121
-#EXTINF:-1,24H DU DUDU E EDU
-http://quatv2.com:8080/419296/419296/11120
-#EXTINF:-1,24H AS TERRÌVEIS AVENTURAS DE BILLY E MANDY
-http://quatv2.com:8080/419296/419296/11119
-#EXTINF:-1,24H The Big Bang Theory
-http://quatv2.com:8080/419296/419296/11101
-#EXTINF:-1,24H Tico e Teco e Os Defensores da Lei
-http://quatv2.com:8080/419296/419296/11725
-#EXTINF:-1,24H Peppa Pig
-http://quatv2.com:8080/419296/419296/10976
-#EXTINF:-1,24H Animazoo
-http://quatv2.com:8080/419296/419296/14851
-#EXTINF:-1,24H Esquadrão Marte
-http://quatv2.com:8080/419296/419296/12189
-#EXTINF:-1,24H Ursos sem Curso
-http://quatv2.com:8080/419296/419296/12190
-#EXTINF:-1,24H Apenas Um Show
-http://quatv2.com:8080/419296/419296/12462
-#EXTINF:-1,24H AS TRAPALHADAS DE FLAPJACK
-http://quatv2.com:8080/419296/419296/11123
-#EXTINF:-1,24H Rick and Morty
-http://quatv2.com:8080/419296/419296/14060
-#EXTINF:-1,24H Patrulha Canina
-http://quatv2.com:8080/419296/419296/12463
-#EXTINF:-1,24H NOVO DUCKTALES
-http://quatv2.com:8080/419296/419296/12488
-#EXTINF:-1,24H DOIS HOMENS E MEIO
-http://quatv2.com:8080/419296/419296/571
-#EXTINF:-1,24H Classicos Hanna Barbera
-http://quatv2.com:8080/419296/419296/13912
-#EXTINF:-1,24H Pokemon
-http://quatv2.com:8080/419296/419296/13913
-#EXTINF:-1,24H Luluzinha
-http://quatv2.com:8080/419296/419296/14035
-#EXTINF:-1,24H Mickey Clássico
-http://quatv2.com:8080/419296/419296/16482
-#EXTINF:-1,24H O Incrível Mundo de Gumball
-http://quatv2.com:8080/419296/419296/14036
-#EXTINF:-1,24H PJ MASKS
-http://quatv2.com:8080/419296/419296/14034
-#EXTINF:-1,24H Turma Da Monica 2
-http://quatv2.com:8080/419296/419296/14033
-#EXTINF:-1,24H Chaves Animado
-http://quatv2.com:8080/419296/419296/14039
-#EXTINF:-1,24H DRAGON BALL SUPER
-http://quatv2.com:8080/419296/419296/569
-#EXTINF:-1,24H UM MALUCO NO PEDAÇO
-http://quatv2.com:8080/419296/419296/566
-#EXTINF:-1,24H Ben10 Força Alienigena
-http://quatv2.com:8080/419296/419296/14057
-#EXTINF:-1,24H Kids TV
-http://quatv2.com:8080/419296/419296/14852
-#EXTINF:-1,24H Moranguinho: Aventuras em Tutti Frutti
-http://quatv2.com:8080/419296/419296/16478
-#EXTINF:-1,24H Meu Amigãozão
-http://quatv2.com:8080/419296/419296/16479
-#EXTINF:-1,24H CHAVES CHAPOLIN
-http://quatv2.com:8080/419296/419296/16480
-#EXTINF:-1,24H Galinha Baby
-http://quatv2.com:8080/419296/419296/16773
-#EXTINF:-1,24H Galinha Pintadinha
-http://quatv2.com:8080/419296/419296/17003
-#EXTINF:-1,24H Peixonauta
-http://quatv2.com:8080/419296/419296/16772
-#EXTINF:-1,24H Patati Patata Animado
-http://quatv2.com:8080/419296/419296/17005
-#EXTINF:-1,24H Patati Patatá
-http://quatv2.com:8080/419296/419296/17335
-#EXTINF:-1,24H Os Backyardigans
-http://quatv2.com:8080/419296/419296/17336
-#EXTINF:-1,24H Metalder O Homem Maquina
-http://quatv2.com:8080/419296/419296/17372
-#EXTINF:-1,24H Hilda
-http://quatv2.com:8080/419296/419296/17368
-#EXTINF:-1,24H Hora Do Rock
-http://quatv2.com:8080/419296/419296/17369
-#EXTINF:-1,24H My Little Pony
-http://quatv2.com:8080/419296/419296/17370
-#EXTINF:-1,24H Manda Chuva
-http://quatv2.com:8080/419296/419296/17371
-#EXTINF:-1,24H Os Gargulas
-http://quatv2.com:8080/419296/419296/17412
-#EXTINF:-1,24H Mr. Bean
-http://quatv2.com:8080/419296/419296/17411
-#EXTINF:-1,24H Hotel Transylvania A Série
-http://quatv2.com:8080/419296/419296/17424
-#EXTINF:-1,24H Turma Do Pateta
-http://quatv2.com:8080/419296/419296/17425
-#EXTINF:-1,24H Sitio Do Pica Pau Amarelo Desenho
-http://quatv2.com:8080/419296/419296/17447
-#EXTINF:-1,24H Os Tres Patetas
-http://quatv2.com:8080/419296/419296/17448
-#EXTINF:-1,24H 3 Palavrinhas
-http://quatv2.com:8080/419296/419296/17449
-#EXTINF:-1,24H Cameras Escondidas
-http://quatv2.com:8080/419296/419296/17471
-#EXTINF:-1,24H Bob Zoom
-http://quatv2.com:8080/419296/419296/17472
-#EXTINF:-1,24H TV Quack
-http://quatv2.com:8080/419296/419296/17469
-#EXTINF:-1,24H Ta Chovendo Hamburger A Serie
-http://quatv2.com:8080/419296/419296/17470
-#EXTINF:-1,24H Transformers Classico
-http://quatv2.com:8080/419296/419296/17526
-#EXTINF:-1,24H Superamigos
-http://quatv2.com:8080/419296/419296/17527
-#EXTINF:-1,24H Bob Esponja
-http://quatv2.com:8080/419296/419296/17928
-#EXTINF:-1,24H Bob Esponja Longas
-http://quatv2.com:8080/419296/419296/17929
-#EXTINF:-1,24H Street Fighter II
-http://quatv2.com:8080/419296/419296/17932
-#EXTINF:-1,24H DUckTales Classico
-http://quatv2.com:8080/419296/419296/17930
-#EXTINF:-1,24H Jonny Quest Classico
-http://quatv2.com:8080/419296/419296/17927
-#EXTINF:-1,24H Os Jetsons
-http://quatv2.com:8080/419296/419296/17931
-#EXTINF:-1,24H De Volta Para o Futuro Desenho
-http://quatv2.com:8080/419296/419296/17978
-#EXTINF:-1,24H Baby Looney Tunes
-http://quatv2.com:8080/419296/419296/17977
-#EXTINF:-1,24H Corrida Maluca
-http://quatv2.com:8080/419296/419296/18029
-#EXTINF:-1,24H A Vida Moderna de Rocko
-http://quatv2.com:8080/419296/419296/18366
-#EXTINF:-1,24H Os Mistérios de Frajola e Piu-Piu
-http://quatv2.com:8080/419296/419296/18820
-#EXTINF:-1,24H Hanna Barbera 60&70's
-http://quatv2.com:8080/419296/419296/18819
-#EXTINF:-1,24H Tiny Toons
-http://quatv2.com:8080/419296/419296/18847
-#EXTINF:-1,24H Fabulas Disney
-http://quatv2.com:8080/419296/419296/18912
-#EXTINF:-1,24H Mister Maker
-http://quatv2.com:8080/419296/419296/19189
-#EXTINF:-1,24H HD Patrulha Canina
-http://quatv2.com:8080/419296/419296/31821
-#EXTINF:-1,24H CHAVES
-http://quatv2.com:8080/419296/419296/45005
-#EXTINF:-1,24H CAVALEIROS DO ZODIACO
-http://quatv2.com:8080/419296/419296/59830
-#EXTINF:-1,24H SEXO NA PRAIA
-http://quatv2.com:8080/419296/419296/60198
-#EXTINF:-1,24H BISEXUAL
-http://quatv2.com:8080/419296/419296/60192
-#EXTINF:-1,24H INTERRACIAL
-http://quatv2.com:8080/419296/419296/60180
-#EXTINF:-1,24H Amadoras
-http://quatv2.com:8080/419296/419296/58921
-#EXTINF:-1,24H A Casa Das Brasileirinhas
-http://quatv2.com:8080/419296/419296/59538
-#EXTINF:-1,24H Gay
-http://quatv2.com:8080/419296/419296/58920
-#EXTINF:-1,24H Castelo Rá-Tim-Bum
-http://quatv2.com:8080/419296/419296/60506
-#EXTINF:-1,24H VIRA LATA
-http://quatv2.com:8080/419296/419296/60401
-#EXTINF:-1,24H O Pequeno Urso
-http://quatv2.com:8080/419296/419296/60399
-#EXTINF:-1,24H HD PATRULHA CANINA HD T02
-http://quatv2.com:8080/419296/419296/59956
-#EXTINF:-1,24H PATRULHA CANINA HD T01
-http://quatv2.com:8080/419296/419296/59955
-#EXTINF:-1,24H OS SIMPSONS PRIMEIRA DÉCADA
-http://quatv2.com:8080/419296/419296/58918
-#EXTINF:-1,24H FUTURAMA
-http://quatv2.com:8080/419296/419296/58917
-#EXTINF:-1,24H NARUTO CLASSICO
-http://quatv2.com:8080/419296/419296/58911
-#EXTINF:-1,24H THUNDERCATS
-http://quatv2.com:8080/419296/419296/58890
-#EXTINF:-1,24H SCOOB DOO
-http://quatv2.com:8080/419296/419296/58887
-#EXTINF:-1,24H POWER RANGERS
-http://quatv2.com:8080/419296/419296/55171
-#EXTINF:-1,24H OS TRAPALHÕES
-http://quatv2.com:8080/419296/419296/55173
-#EXTINF:-1,24H PEPA PIG
-http://quatv2.com:8080/419296/419296/55174
-#EXTINF:-1,24H HD Os Jovens Titãs em Ação
-http://quatv2.com:8080/419296/419296/12065
-#EXTINF:-1,24H O Mundo De Beakman
-http://quatv2.com:8080/419296/419296/43990
-#EXTINF:-1,24H Buddy Thunderstruck
-http://quatv2.com:8080/419296/419296/19150
-#EXTINF:-1,24H Lego Unigata
-http://quatv2.com:8080/419296/419296/11966
-#EXTINF:-1,24H X-Men Classico
-http://quatv2.com:8080/419296/419296/16463
-#EXTINF:-1,24H Hora De Aventura
-http://quatv2.com:8080/419296/419296/14808
-#EXTINF:-1,24H Ben 10 Omniverse
-http://quatv2.com:8080/419296/419296/16047
-#EXTINF:-1,24H Todo Mundo Odeia O Chris
-http://quatv2.com:8080/419296/419296/15963
-#EXTINF:-1,24H Vera e o Reino do Arco-Íris
-http://quatv2.com:8080/419296/419296/14058
-#EXTINF:-1,24H Paradise P.D
-http://quatv2.com:8080/419296/419296/15559
-#EXTINF:-1,24H Oggy e as Baratas Tontas
-http://quatv2.com:8080/419296/419296/14398
-#EXTINF:-1,24H  Digimon Classico
-http://quatv2.com:8080/419296/419296/14052
-#EXTINF:-1,24H Molang & Piu Piu
-http://quatv2.com:8080/419296/419296/12489
-#EXTINF:-1,24H Coragem O Cão Covarde
-http://quatv2.com:8080/419296/419296/14062
-#EXTINF:-1,24H MR. Pickles
-http://quatv2.com:8080/419296/419296/14061
-#EXTINF:-1,24H She-Ra e as Princesas do Poder
-http://quatv2.com:8080/419296/419296/16400
-#EXTINF:-1,24H Pingu
-http://quatv2.com:8080/419296/419296/10772
-#EXTINF:-1,24H Turma Da Monica
-http://quatv2.com:8080/419296/419296/10573
-#EXTINF:-1,24H Titio Avô
-http://quatv2.com:8080/419296/419296/11381
-#EXTINF:-1,24H Irmão do Jorel
-http://quatv2.com:8080/419296/419296/10572
-#EXTINF:-1,24H Masha e o Urso
-http://quatv2.com:8080/419296/419296/10571
-#EXTINF:-1,24H Jake e os Piratas da Terra do Nunca
-http://quatv2.com:8080/419296/419296/10506
-#EXTINF:-1,24H O Show dos Looney Tunes
-http://quatv2.com:8080/419296/419296/11126
-#EXTINF:-1,24H Clarêncio o Otimista
-http://quatv2.com:8080/419296/419296/11125
-#EXTINF:-1,24H OS PADRINHOS MAGICOS
-http://quatv2.com:8080/419296/419296/11124
-#EXTINF:-1,24H PATO DONALD
-http://quatv2.com:8080/419296/419296/11122
-#EXTINF:-1,24H O SHOW DA LUNA
-http://quatv2.com:8080/419296/419296/11121
-#EXTINF:-1,24H DU DUDU E EDU
-http://quatv2.com:8080/419296/419296/11120
-#EXTINF:-1,24H AS TERRÌVEIS AVENTURAS DE BILLY E MANDY
-http://quatv2.com:8080/419296/419296/11119
-#EXTINF:-1,24H The Big Bang Theory
-http://quatv2.com:8080/419296/419296/11101
-#EXTINF:-1,24H Tico e Teco e Os Defensores da Lei
-http://quatv2.com:8080/419296/419296/11725
-#EXTINF:-1,24H Peppa Pig
-http://quatv2.com:8080/419296/419296/10976
-#EXTINF:-1,24H Animazoo
-http://quatv2.com:8080/419296/419296/14851
-#EXTINF:-1,24H Esquadrão Marte
-http://quatv2.com:8080/419296/419296/12189
-#EXTINF:-1,24H Ursos sem Curso
-http://quatv2.com:8080/419296/419296/12190
-#EXTINF:-1,24H Apenas Um Show
-http://quatv2.com:8080/419296/419296/12462
-#EXTINF:-1,24H AS TRAPALHADAS DE FLAPJACK
-http://quatv2.com:8080/419296/419296/11123
-#EXTINF:-1,24H Rick and Morty
-http://quatv2.com:8080/419296/419296/14060
-#EXTINF:-1,24H Patrulha Canina
-http://quatv2.com:8080/419296/419296/12463
-#EXTINF:-1,24H DOIS HOMENS E MEIO
-http://quatv2.com:8080/419296/419296/571
-#EXTINF:-1,24H Classicos Hanna Barbera
-http://quatv2.com:8080/419296/419296/13912
-#EXTINF:-1,24H Pokemon
-http://quatv2.com:8080/419296/419296/13913
-#EXTINF:-1,24H Luluzinha
-http://quatv2.com:8080/419296/419296/14035
-#EXTINF:-1,24H Mickey Clássico
-http://quatv2.com:8080/419296/419296/16482
-#EXTINF:-1,24H O Incrível Mundo de Gumball
-http://quatv2.com:8080/419296/419296/14036
-#EXTINF:-1,24H PJ MASKS
-http://quatv2.com:8080/419296/419296/14034
-#EXTINF:-1,24H Turma Da Monica 2
-http://quatv2.com:8080/419296/419296/14033
-#EXTINF:-1,24H Chaves Animado
-http://quatv2.com:8080/419296/419296/14039
-#EXTINF:-1,24H DRAGON BALL SUPER
-http://quatv2.com:8080/419296/419296/569
-#EXTINF:-1,24H UM MALUCO NO PEDAÇO
-http://quatv2.com:8080/419296/419296/566
-#EXTINF:-1,24H Ben10 Força Alienigena
-http://quatv2.com:8080/419296/419296/14057
-#EXTINF:-1,24H Kids TV
-http://quatv2.com:8080/419296/419296/14852
-#EXTINF:-1,24H Moranguinho: Aventuras em Tutti Frutti
-http://quatv2.com:8080/419296/419296/16478
-#EXTINF:-1,24H Meu Amigãozão
-http://quatv2.com:8080/419296/419296/16479
-#EXTINF:-1,24H CHAVES CHAPOLIN
-http://quatv2.com:8080/419296/419296/16480
-#EXTINF:-1,24H Galinha Baby
-http://quatv2.com:8080/419296/419296/16773
-#EXTINF:-1,24H Galinha Pintadinha
-http://quatv2.com:8080/419296/419296/17003
-#EXTINF:-1,24H Peixonauta
-http://quatv2.com:8080/419296/419296/16772
-#EXTINF:-1,24H Patati Patata Animado
-http://quatv2.com:8080/419296/419296/17005
-#EXTINF:-1,24H Patati Patatá
-http://quatv2.com:8080/419296/419296/17335
-#EXTINF:-1,24H Os Backyardigans
-http://quatv2.com:8080/419296/419296/17336
-#EXTINF:-1,24H Metalder O Homem Maquina
-http://quatv2.com:8080/419296/419296/17372
-#EXTINF:-1,24H Hilda
-http://quatv2.com:8080/419296/419296/17368
-#EXTINF:-1,24H Hora Do Rock
-http://quatv2.com:8080/419296/419296/17369
-#EXTINF:-1,24H My Little Pony
-http://quatv2.com:8080/419296/419296/17370
-#EXTINF:-1,24H Os Gargulas
-http://quatv2.com:8080/419296/419296/17412
-#EXTINF:-1,24H Mr. Bean
-http://quatv2.com:8080/419296/419296/17411
-#EXTINF:-1,24H Hotel Transylvania A Série
-http://quatv2.com:8080/419296/419296/17424
-#EXTINF:-1,24H Turma Do Pateta
-http://quatv2.com:8080/419296/419296/17425
-#EXTINF:-1,24H Sitio Do Pica Pau Amarelo Desenho
-http://quatv2.com:8080/419296/419296/17447
-#EXTINF:-1,24H Os Tres Patetas
-http://quatv2.com:8080/419296/419296/17448
-#EXTINF:-1,24H 3 Palavrinhas
-http://quatv2.com:8080/419296/419296/17449
-#EXTINF:-1,24H Cameras Escondidas
-http://quatv2.com:8080/419296/419296/17471
-#EXTINF:-1,24H Bob Zoom
-http://quatv2.com:8080/419296/419296/17472
-#EXTINF:-1,24H TV Quack
-http://quatv2.com:8080/419296/419296/17469
-#EXTINF:-1,24H Ta Chovendo Hamburger A Serie
-http://quatv2.com:8080/419296/419296/17470
-#EXTINF:-1,24H Transformers Classico
-http://quatv2.com:8080/419296/419296/17526
-#EXTINF:-1,24H Superamigos
-http://quatv2.com:8080/419296/419296/17527
-#EXTINF:-1,24H Bob Esponja
-http://quatv2.com:8080/419296/419296/17928
-#EXTINF:-1,24H Bob Esponja Longas
-http://quatv2.com:8080/419296/419296/17929
-#EXTINF:-1,24H Street Fighter II
-http://quatv2.com:8080/419296/419296/17932
-#EXTINF:-1,24H Jonny Quest Classico
-http://quatv2.com:8080/419296/419296/17927
-#EXTINF:-1,24H Os Jetsons
-http://quatv2.com:8080/419296/419296/17931
-#EXTINF:-1,24H De Volta Para o Futuro Desenho
-http://quatv2.com:8080/419296/419296/17978
-#EXTINF:-1,24H Baby Looney Tunes
-http://quatv2.com:8080/419296/419296/17977
-#EXTINF:-1,24H Corrida Maluca
-http://quatv2.com:8080/419296/419296/18029
-#EXTINF:-1,24H A Vida Moderna de Rocko
-http://quatv2.com:8080/419296/419296/18366
-#EXTINF:-1,24H Os Mistérios de Frajola e Piu-Piu
-http://quatv2.com:8080/419296/419296/18820
-#EXTINF:-1,24H Fabulas Disney
-http://quatv2.com:8080/419296/419296/18912
-#EXTINF:-1,24H Mister Maker
-http://quatv2.com:8080/419296/419296/19189
-#EXTINF:-1,24H HD Patrulha Canina
-http://quatv2.com:8080/419296/419296/31821
-#EXTINF:-1,24H CHAVES
-http://quatv2.com:8080/419296/419296/45005
-#EXTINF:-1,Desenho Biblicos  24H
-http://clienteworld.com:8080/ione/ione/50549
-#EXTINF:-1,Larva 24H
-http://clienteworld.com:8080/ione/ione/50550
-#EXTINF:-1,Padrinho Magicos 24H
-http://clienteworld.com:8080/ione/ione/50551
-#EXTINF:-1,CINE TERROR 24Hs
-http://clienteworld.com:8080/ione/ione/52933
-#EXTINF:-1,3 POR -CENTO  1 A 2 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53170
-#EXTINF:-1,AGENTES DA SHIELD 1 A 2 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53253
-#EXTINF:-1,AGENTES DA SHIELD 3 A 4 24Hs
-http://clienteworld.com:8080/ione/ione/53254
-#EXTINF:-1,ARQUIVO X  1 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53171
-#EXTINF:-1,BILLIONS 1 A 2 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53172
-#EXTINF:-1,THE OA 1 A 2 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53247
-#EXTINF:-1,THE TICK  1 A 2 TEMP  24Hs
-http://clienteworld.com:8080/ione/ione/53248
-#EXTINF:-1,THE UMBRELLA ACADEMY 24Hs
-http://clienteworld.com:8080/ione/ione/53249
-#EXTINF:-1,TIMELESS 1 A 2 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53250
-#EXTINF:-1,WESTWORLD 1 A 2 TEMP  24Hs
-http://clienteworld.com:8080/ione/ione/53251
-#EXTINF:-1,WHY 13  1 A 2 TEMP 24Hs
-http://clienteworld.com:8080/ione/ione/53252
-#EXTINF:-1,CHAVES 24Hs
-http://clienteworld.com:8080/ione/ione/56836
-#EXTINF:-1,MASHA E O URSO 24Hs
-http://clienteworld.com:8080/ione/ione/57246
-#EXTINF:-1,MECANIMAIS 24Hs
-http://clienteworld.com:8080/ione/ione/57245
-#EXTINF:-1,O SHOW DA LUNA 24Hs
-http://clienteworld.com:8080/ione/ione/57241
-#EXTINF:-1,OS FLINTSTONS 24Hs
-http://clienteworld.com:8080/ione/ione/57243
-#EXTINF:-1,PATRULHA CANINA 24HS
-http://clienteworld.com:8080/ione/ione/56827
-#EXTINF:-1,PEPA PIG 24Hs
-http://clienteworld.com:8080/ione/ione/56828
-#EXTINF:0,FOX SPORTS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/837
-#EXTINF:0,FOX SPORTS HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/838
-#EXTINF:0,A&E
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/898
-#EXTINF:0,ANIMAL PLANET
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/897
-#EXTINF:0,ANIMAL PLANET HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/896
-#EXTINF:0,DISCOVERY WORLD HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/861
-#EXTINF:0,BAND SPORTS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/889
-#EXTINF:0,ARTE 1
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/894
-#EXTINF:0,AXN
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/893
-#EXTINF:0,AXN HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/892
-#EXTINF:0,BAND HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/891
-#EXTINF:0,BAND NEWS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/890
-#EXTINF:0,BAND SPORTS HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/888
-#EXTINF:0,BAND
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/887
-#EXTINF:0,BIS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/886
-#EXTINF:0,BIS HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/885
-#EXTINF:0,BOOMERANG
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/884
-#EXTINF:0,CANAL BRASIL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/883
-#EXTINF:0,CANAL SONY
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/881
-#EXTINF:0,CANAL SONY HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/880
-#EXTINF:0,CARTOON NETWORK
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/878
-#EXTINF:0,COMBATE
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/875
-#EXTINF:0,COMBATE HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/874
-#EXTINF:0,COMEDY CENTRAL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/873
-#EXTINF:0,DISNEY CHANNEL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/860
-#EXTINF:0,DISCOVERY CHANNEL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/871
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/870
-#EXTINF:0,CINEMAX
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/876
-#EXTINF:0,CARTOON NETWORK HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/877
-#EXTINF:0,DISCOVERY TURBO HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/862
-#EXTINF:0,DISCOVERY TURBO
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/863
-#EXTINF:0,DISCOVERY SCIENCE HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/864
-#EXTINF:0,DISCOVERY SCIENCE
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/865
-#EXTINF:0,DISCOVERY KIDS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/866
-#EXTINF:0,DISCOVERY HOME E HEALTH​ HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/867
-#EXTINF:0,DISCOVERY HOME E HEALTH​
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/868
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/869
-#EXTINF:0,ESPN Brasil
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/850
-#EXTINF:0,ESPN2 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/851
-#EXTINF:0,HBO Plus HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/813
-#EXTINF:0,HBO Plus
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/815
-#EXTINF:0,HBO Family
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/818
-#EXTINF:0,HBO HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/816
-#EXTINF:0,HBO Family HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/817
-#EXTINF:0,E!
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/857
-#EXTINF:0,DISNEY XD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/858
-#EXTINF:0,DISNEY JR
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/859
-#EXTINF:0,FOX LIFE
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/840
-#EXTINF:0,FOX HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/841
-#EXTINF:0,FOX PREMIUM 2 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/842
-#EXTINF:0,FOX PREMIUM 1 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/843
-#EXTINF:0,FOX
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/844
-#EXTINF:0,FOOD NETWORK
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/845
-#EXTINF:0,HBO Signature
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/812
-#EXTINF:0,HBO Signature HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/811
-#EXTINF:0,ESPN HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/848
-#EXTINF:0,ESPN Brasil HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/849
-#EXTINF:0,HBO2
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/810
-#EXTINF:0,GLOBO NEWS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/826
-#EXTINF:0,FX HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/832
-#EXTINF:0,FX
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/833
-#EXTINF:0,GLOOB
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/825
-#EXTINF:0,GNT
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/824
-#EXTINF:0,GNT HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/823
-#EXTINF:0,H2
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/822
-#EXTINF:0,H2 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/821
-#EXTINF:0,HBO
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/820
-#EXTINF:0,FOX LIFE HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/839
-#EXTINF:0,HBO2 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/819
-#EXTINF:0,MAX UP
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/800
-#EXTINF:0,HBO2
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/810
-#EXTINF:0,MAX PRIME HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/802
-#EXTINF:0,MAX
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/803
-#EXTINF:0,MAIS GLOBOSAT
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/804
-#EXTINF:0,LIFETIME
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/805
-#EXTINF:0,ID HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/806
-#EXTINF:0,ID
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/807
-#EXTINF:0,PARAMOUNT
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/783
-#EXTINF:0,HISTORY CHANNEL HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/809
-#EXTINF:0,MEGAPIX
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/799
-#EXTINF:0,MEGAPIX HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/798
-#EXTINF:0,MTV
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/797
-#EXTINF:0,MULTISHOW
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/796
-#EXTINF:0,MULTISHOW HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/795
-#EXTINF:0,PREMIERE CLUBES HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/780
-#EXTINF:0,PREMIERE CLUBES SD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/767
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/792
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/791
-#EXTINF:0,PARAMOUNT HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/782
-#EXTINF:0,OFF HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/784
-#EXTINF:0,OFF
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/785
-#EXTINF:0,SporTV 3 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/750
-#EXTINF:0,NICKELODEON
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/787
-#EXTINF:0,NICK JR
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/788
-#EXTINF:0,SporTV 2 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/751
-#EXTINF:0,PREMIERE 7
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/770
-#EXTINF:0,PREMIERE 6
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/771
-#EXTINF:0,PREMIERE 5 HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/772
-#EXTINF:0,PREMIERE 5
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/773
-#EXTINF:0,SPACE HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/752
-#EXTINF:0,SPACE
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/753
-#EXTINF:0,TBS HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/740
-#EXTINF:0,SYFY
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/742
-#EXTINF:0,TBS
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/741
-#EXTINF:0,STUDIO UNIVERSAL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/743
-#EXTINF:0,TELECINE PIPOCA
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/730
-#EXTINF:0,SporTV 3
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/745
-#EXTINF:0,TELECINE FUN
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/731
-#EXTINF:0,SporTV 2
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/747
-#EXTINF:0,SporTV HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/749
-#EXTINF:0,TELECINE CULT
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/732
-#EXTINF:0,TELECINE ACTION
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/733
-#EXTINF:0,TCM
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/734
-#EXTINF:0,TELECINE TOUCH HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/735
-#EXTINF:0,TELECINE PREMIUM HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/736
-#EXTINF:0,TELECINE PIPOCA HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/737
-#EXTINF:0,TELECINE FUN HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/738
-#EXTINF:0,TELECINE ACTION HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/739
-#EXTINF:0,TOONCAST
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/720
-#EXTINF:0,TNT SERIES
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/722
-#EXTINF:0,TNT SERIES HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/721
-#EXTINF:0,TNT HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/723
-#EXTINF:0,TNT
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/724
-#EXTINF:0,TLC
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/725
-#EXTINF:0,TELECINE TOUCH
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/728
-#EXTINF:0,TELECINE PREMIUM
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/729
-#EXTINF:0,UNIVERSAL CHANNEL HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/710
-#EXTINF:0,VIVA
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/708
-#EXTINF:0,UNIVERSAL CHANNEL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/711
-#EXTINF:0,VIVA HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/707
-#EXTINF:0,WARNER CHANNEL
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/706
-#EXTINF:0,WARNER CHANNEL HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/705
-#EXTINF:0,TRUTV
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/719
-#EXTINF:0,SporTV HD
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/748
-#EXTINF:0,SporTV
-http://cdn.miptv.ws:8880/JpeQDe4IaL/ghfbrgytt/748
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E01
+http://psrv.io:80/series/laercio/laercio123/23117.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E02
+http://psrv.io:80/series/laercio/laercio123/23118.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E03
+http://psrv.io:80/series/laercio/laercio123/23601.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E04
+http://psrv.io:80/series/laercio/laercio123/23864.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",CHERNOBYL S01 E05
+http://psrv.io:80/series/laercio/laercio123/24015.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",S01 E01 - Chernobyl
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17401.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",S01 E02 - Chernobyl
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17402.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",S01 E03 - Chernobyl
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17403.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",S01 E04- Chernobyl
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17404.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9wlK8P.png" group-title="CINEMA",S01 E05 - Chernobyl
+http://elitex.me:8880/series/rodrigoberardine4/yujDUm38Jy/17438.mp4
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/5477
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",Amc
+http://clienteworld.com:8080/claudia/123456/8155
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/3751
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX *
+http://painel.ebanonet.com.br:25461/allan14/allan14/7802
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",Cinemax
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28632
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/273
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28560
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/279
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28563
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28556
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/8214
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Plus.png" group-title="TELECINES",HBO Plus
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28558
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO FAMILY
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/276
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO Family
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28562
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",MAX
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4827
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",Max
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28546
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX PRIME
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28544
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX Prime
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4828
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",MAX UP
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28542
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",Max UP
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/5043
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIX
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/244
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",Megapix
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/244
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIx
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28540
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28519
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/228
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACE
+http://clienteworld.com:8080/claudia/123456/8013
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPAcE
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/4947
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPAcE
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4947
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPaCE
+http://painel.ebanonet.com.br:25461/allan14/allan14/20532
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACe
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28486
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",Space
+http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/7936
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNT
+http://clienteworld.com:8080/claudia/123456/7995
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNt
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/263
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnt
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/263
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnT
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28458
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TnT
+http://painel.ebanonet.com.br:25461/allan14/allan14/20493
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tNT
+http://bluereds.xyz:80/carlosbuchalla/f3xwf13u/7906
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTION
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/296
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ActioN
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/296
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTIOn
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28473
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE CULT
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/4791
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE Cult
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4791
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE CulT
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28795
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FUN
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/293
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE Fun
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/293
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FuN
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28832
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PIPOCA
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/290
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE Pipoca
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/290
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PipocA
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28467
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PREMIUM
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28465
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE Premium
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/287
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PremiuM
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/287
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE TOUCH
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28463
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE Touch
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/284
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE ToucH
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/284
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/8244
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28475
+#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk" group-title="TELECINES",TNT SERIES
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28456
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SyFy.png" group-title="TELECINES",SYFY
+http://elitex.me:8880/rodrigoguilherme/UMV7K4cmRm/2762
