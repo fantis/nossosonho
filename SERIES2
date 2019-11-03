@@ -521,23 +521,3 @@ Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter vi
 <genre>TERRROR</genre>
 </item>
 <item>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
-<info>
-COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
-<genre>AVENTURA</genre>
-
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
-<genre>AVENTURA</genre>
-</item>
-<item>
