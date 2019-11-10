@@ -431,6 +431,16 @@ Entre o passado e o presente, uma família dividida confronta memórias assustad
 <info>Entre o passado e o presente, uma família dividida confronta memórias assustadoras do antigo lar e dos eventos aterrorizantes que os expulsaram de lá.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]Animal Kingdom (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbKsxXfXo5EriHjI1U5FekB6OhO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AnimalKingdom.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9c6fuzHFKmSE3UBcZ470SvsEJtW.jpg</fanart>
+<info>Depois da morte de sua mãe por overdose de heroína, o jovem Joshua vai morar com sua avó no sul da Califórnia, onde descobre porque foi mantido longe da família por anos.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Aruanas (2019)[/COLOR]</name>
