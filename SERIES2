@@ -441,6 +441,17 @@ Entre o passado e o presente, uma família dividida confronta memórias assustad
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR lime]APB (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY8km84c7J7AVxxCFrU23XDKN3V.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/APB.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rhnAqYbM7tV2CsvhYa42nfepNyR.jpg</fanart>
+<info>Quando seu melhor amigo é assassinado, um bilionário decide adquirir uma delegacia de polícia cheia de problemas. Assim, ele utiliza uma nova abordagem para tentar colocar os policiais na linha. Ele decide investir parte da sua enorme fortuna para que polícia local tenha acesso aos melhores equipamentos e tecnologia de combate ao crime, mas será que ele pode corrigir os problemas de trabalho dos policiais veteranos?
+Baseada em fatos reais</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Aruanas (2019)[/COLOR]</name>
@@ -734,6 +745,16 @@ Kate Kane, uma jovem lésbica, decide utilizar suas altas habilidades de combate
 <fanart>https://image.tmdb.org/t/p/original/spc5mNkW2daK1ob7Z7jqNkSlKS2.jpg</fanart>
 <info>Kate Kane, uma jovem lésbica, decide utilizar suas altas habilidades de combate para luta contra o crime em Gotham City. Armada apenas com sua paixão por justiça e falando sempre o que pensa, Kate ainda precisa superar seus próprios demônios antes de se tornar um símbolo de esperança para os cidadãos de Gotham.</info>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR lime]Band of Brothers - Irmãos de Guerra (2001)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUrt6oeXd04ImEwQjO9oLjRguaA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BandofBrothers.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/iHzEzaq0Cfn9wdcewsggaTyeEjV.jpg</fanart>
+<info>Uma das minisséries de maior sucesso da HBO, Band of Brothers coloca o telespectador dentro do universo da Segunda Guerra Mundial, enquanto mostra de perto a saga da lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler. Ao início de cada episódio, há o depoimento de veteranos da Companhia Easy, cujas experiências estão traduzidas neste drama, que mostra os momentos mais importantes vividos por cada um soldados. Além disso, grandes nomes produzem a minissérie, garantindo sua qualidade: Tom Hanks e Steven Spielberg, ambos em seu primeiro trabalho para a televisão.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
