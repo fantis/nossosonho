@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E01 Episodio 01
+http://hel.lhmtv.gq/play/?contentId=9d8cf6348f0000c2&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E02 Parte 2-1
+http://hel.lhmtv.gq/play/?contentId=b3be39348aaf97dd&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E03 Episodio 02
+http://hel.lhmtv.gq/play/?contentId=10fc04e140b4f03c&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E04 Parte 2-2
+http://hel.lhmtv.gq/play/?contentId=01c6c647892d7577&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E05 Episodio 03
+http://hel.lhmtv.gq/play/?contentId=20b34cc9997a34a8&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E06 Parte 2-3
+http://hel.lhmtv.gq/play/?contentId=b6be43276e0dab6a&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E07 Episodio 04
+http://hel.lhmtv.gq/play/?contentId=0c9f6a44c6878858&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E08 Parte 2-4
+http://hel.lhmtv.gq/play/?contentId=e08270c4b83262ca&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E09 Episodio 05
+http://hel.lhmtv.gq/play/?contentId=720a42e92ef5fb45&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E10 Parte 2-5
+http://hel.lhmtv.gq/play/?contentId=dc9b9adf7a427411&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E11 Episodio 06
+http://hel.lhmtv.gq/play/?contentId=332f7b80f9a04615&LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/boru1.jpg" group-title="BORU: Esquadrao Lobo", 1T-E12 Parte 2-6
+http://hel.lhmtv.gq/play/?contentId=015c9e8edf08f67b&LHMTv
