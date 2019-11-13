@@ -1,234 +1,241 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E01
-http://odin.lhmtv.gq/series/The%20Flash/s01e01-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E02
-http://odin.lhmtv.gq/series/The%20Flash/s01e02-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E03
-http://odin.lhmtv.gq/series/The%20Flash/s01e03-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E04
-http://odin.lhmtv.gq/series/The%20Flash/s01e04-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E05
-http://odin.lhmtv.gq/series/The%20Flash/s01e05-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E06
-http://odin.lhmtv.gq/series/The%20Flash/s01e06-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E07
-http://odin.lhmtv.gq/series/The%20Flash/s01e07-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E08
-http://odin.lhmtv.gq/series/The%20Flash/s01e08-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E09
-http://odin.lhmtv.gq/series/The%20Flash/s01e09-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E10
-http://odin.lhmtv.gq/series/The%20Flash/s01e10-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E11
-http://odin.lhmtv.gq/series/The%20Flash/s01e11-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E12
-http://odin.lhmtv.gq/series/The%20Flash/s01e12-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E13
-http://odin.lhmtv.gq/series/The%20Flash/s01e13-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E14
-http://odin.lhmtv.gq/series/The%20Flash/s01e14-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E15
-http://odin.lhmtv.gq/series/The%20Flash/s01e15-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E16
-http://odin.lhmtv.gq/series/The%20Flash/s01e16-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E17
-http://odin.lhmtv.gq/series/The%20Flash/s01e17-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E18
-http://odin.lhmtv.gq/series/The%20Flash/s01e18-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E19
-http://odin.lhmtv.gq/series/The%20Flash/s01e19-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E20
-http://odin.lhmtv.gq/series/The%20Flash/s01e20-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E21
-http://odin.lhmtv.gq/series/The%20Flash/s01e21-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E22
-http://odin.lhmtv.gq/series/The%20Flash/s01e22-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash1.jpg" group-title="The Flash", 1T-E23
-http://odin.lhmtv.gq/series/The%20Flash/s01e23-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E01
+http://asgard.lhmtv.gq/series/The%20Flash/s01e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E02
+http://asgard.lhmtv.gq/series/The%20Flash/s01e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E03
+http://asgard.lhmtv.gq/series/The%20Flash/s01e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E04
+http://asgard.lhmtv.gq/series/The%20Flash/s01e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E05
+http://asgard.lhmtv.gq/series/The%20Flash/s01e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E06
+http://asgard.lhmtv.gq/series/The%20Flash/s01e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E07
+http://asgard.lhmtv.gq/series/The%20Flash/s01e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E08
+http://asgard.lhmtv.gq/series/The%20Flash/s01e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E09
+http://asgard.lhmtv.gq/series/The%20Flash/s01e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E10
+http://asgard.lhmtv.gq/series/The%20Flash/s01e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E11
+http://asgard.lhmtv.gq/series/The%20Flash/s01e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E12
+http://asgard.lhmtv.gq/series/The%20Flash/s01e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E13
+http://asgard.lhmtv.gq/series/The%20Flash/s01e13-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E14
+http://asgard.lhmtv.gq/series/The%20Flash/s01e14-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E15
+http://asgard.lhmtv.gq/series/The%20Flash/s01e15-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E16
+http://asgard.lhmtv.gq/series/The%20Flash/s01e16-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E17
+http://asgard.lhmtv.gq/series/The%20Flash/s01e17-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E18
+http://asgard.lhmtv.gq/series/The%20Flash/s01e18-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E19
+http://asgard.lhmtv.gq/series/The%20Flash/s01e19-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E20
+http://asgard.lhmtv.gq/series/The%20Flash/s01e20-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E21
+http://asgard.lhmtv.gq/series/The%20Flash/s01e21-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E22
+http://asgard.lhmtv.gq/series/The%20Flash/s01e22-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash1.jpg" group-title="The Flash", 1T-E23
+http://asgard.lhmtv.gq/series/The%20Flash/s01e23-dub-720p.mp4?LHMTv
 
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E01
-http://odin.lhmtv.gq/series/The%20Flash/s02e01-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E02
-http://odin.lhmtv.gq/series/The%20Flash/s02e02-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E03
-http://odin.lhmtv.gq/series/The%20Flash/s02e03-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E04
-http://odin.lhmtv.gq/series/The%20Flash/s02e04-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E05
-http://odin.lhmtv.gq/series/The%20Flash/s02e05-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E06
-http://odin.lhmtv.gq/series/The%20Flash/s02e06-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E07
-http://odin.lhmtv.gq/series/The%20Flash/s02e07-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E08
-http://odin.lhmtv.gq/series/The%20Flash/s02e08-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E09
-http://odin.lhmtv.gq/series/The%20Flash/s02e09-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E10
-http://odin.lhmtv.gq/series/The%20Flash/s02e10-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E11
-http://odin.lhmtv.gq/series/The%20Flash/s02e11-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E12
-http://odin.lhmtv.gq/series/The%20Flash/s02e12-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E13
-http://odin.lhmtv.gq/series/The%20Flash/s02e13-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E14
-http://odin.lhmtv.gq/series/The%20Flash/s02e14-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E15
-http://odin.lhmtv.gq/series/The%20Flash/s02e15-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E16
-http://odin.lhmtv.gq/series/The%20Flash/s02e16-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E17
-http://odin.lhmtv.gq/series/The%20Flash/s02e17-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E18
-http://odin.lhmtv.gq/series/The%20Flash/s02e18-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E19
-http://odin.lhmtv.gq/series/The%20Flash/s02e19-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E20
-http://odin.lhmtv.gq/series/The%20Flash/s02e20-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E21
-http://odin.lhmtv.gq/series/The%20Flash/s02e21-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E22
-http://odin.lhmtv.gq/series/The%20Flash/s02e22-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash2.jpg" group-title="The Flash", 2T-E23
-http://odin.lhmtv.gq/series/The%20Flash/s02e23-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E01
+http://asgard.lhmtv.gq/series/The%20Flash/s02e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E02
+http://asgard.lhmtv.gq/series/The%20Flash/s02e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E03
+http://asgard.lhmtv.gq/series/The%20Flash/s02e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E04
+http://asgard.lhmtv.gq/series/The%20Flash/s02e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E05
+http://asgard.lhmtv.gq/series/The%20Flash/s02e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E06
+http://asgard.lhmtv.gq/series/The%20Flash/s02e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E07
+http://asgard.lhmtv.gq/series/The%20Flash/s02e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E08
+http://asgard.lhmtv.gq/series/The%20Flash/s02e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E09
+http://asgard.lhmtv.gq/series/The%20Flash/s02e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E10
+http://asgard.lhmtv.gq/series/The%20Flash/s02e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E11
+http://asgard.lhmtv.gq/series/The%20Flash/s02e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E12
+http://asgard.lhmtv.gq/series/The%20Flash/s02e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E13
+http://asgard.lhmtv.gq/series/The%20Flash/s02e13-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E14
+http://asgard.lhmtv.gq/series/The%20Flash/s02e14-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E15
+http://asgard.lhmtv.gq/series/The%20Flash/s02e15-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E16
+http://asgard.lhmtv.gq/series/The%20Flash/s02e16-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E17
+http://asgard.lhmtv.gq/series/The%20Flash/s02e17-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E18
+http://asgard.lhmtv.gq/series/The%20Flash/s02e18-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E19
+http://asgard.lhmtv.gq/series/The%20Flash/s02e19-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E20
+http://asgard.lhmtv.gq/series/The%20Flash/s02e20-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E21
+http://asgard.lhmtv.gq/series/The%20Flash/s02e21-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E22
+http://asgard.lhmtv.gq/series/The%20Flash/s02e22-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash2.jpg" group-title="The Flash", 2T-E23
+http://asgard.lhmtv.gq/series/The%20Flash/s02e23-dub-720p.mp4?LHMTv
 
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E01
-http://odin.lhmtv.gq/series/The%20Flash/s03e01-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E02
-http://odin.lhmtv.gq/series/The%20Flash/s03e02-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E03
-http://odin.lhmtv.gq/series/The%20Flash/s03e03-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E04
-http://odin.lhmtv.gq/series/The%20Flash/s03e04-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E05
-http://odin.lhmtv.gq/series/The%20Flash/s03e05-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E06
-http://odin.lhmtv.gq/series/The%20Flash/s03e06-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E07
-http://odin.lhmtv.gq/series/The%20Flash/s03e07-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E08
-http://odin.lhmtv.gq/series/The%20Flash/s03e08-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E09
-http://odin.lhmtv.gq/series/The%20Flash/s03e09-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E10
-http://odin.lhmtv.gq/series/The%20Flash/s03e10-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E11
-http://odin.lhmtv.gq/series/The%20Flash/s03e11-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E12
-http://odin.lhmtv.gq/series/The%20Flash/s03e12-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E13
-http://odin.lhmtv.gq/series/The%20Flash/s03e13-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E14
-http://odin.lhmtv.gq/series/The%20Flash/s03e14-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E15
-http://odin.lhmtv.gq/series/The%20Flash/s03e15-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E16
-http://odin.lhmtv.gq/series/The%20Flash/s03e16-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E17
-http://odin.lhmtv.gq/series/The%20Flash/s03e17-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E18
-http://odin.lhmtv.gq/series/The%20Flash/s03e18-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E19
-http://odin.lhmtv.gq/series/The%20Flash/s03e19-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E20
-http://odin.lhmtv.gq/series/The%20Flash/s03e20-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E21
-http://odin.lhmtv.gq/series/The%20Flash/s03e21-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E22
-http://odin.lhmtv.gq/series/The%20Flash/s03e22-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash3.jpg" group-title="The Flash", 3T-E23
-http://odin.lhmtv.gq/series/The%20Flash/s03e23-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E01
+http://asgard.lhmtv.gq/series/The%20Flash/s03e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E02
+http://asgard.lhmtv.gq/series/The%20Flash/s03e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E03
+http://asgard.lhmtv.gq/series/The%20Flash/s03e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E04
+http://asgard.lhmtv.gq/series/The%20Flash/s03e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E05
+http://asgard.lhmtv.gq/series/The%20Flash/s03e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E06
+http://asgard.lhmtv.gq/series/The%20Flash/s03e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E07
+http://asgard.lhmtv.gq/series/The%20Flash/s03e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E08
+http://asgard.lhmtv.gq/series/The%20Flash/s03e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E09
+http://asgard.lhmtv.gq/series/The%20Flash/s03e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E10
+http://asgard.lhmtv.gq/series/The%20Flash/s03e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E11
+http://asgard.lhmtv.gq/series/The%20Flash/s03e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E12
+http://asgard.lhmtv.gq/series/The%20Flash/s03e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E13
+http://asgard.lhmtv.gq/series/The%20Flash/s03e13-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E14
+http://asgard.lhmtv.gq/series/The%20Flash/s03e14-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E15
+http://asgard.lhmtv.gq/series/The%20Flash/s03e15-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E16
+http://asgard.lhmtv.gq/series/The%20Flash/s03e16-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E17
+http://asgard.lhmtv.gq/series/The%20Flash/s03e17-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E18
+http://asgard.lhmtv.gq/series/The%20Flash/s03e18-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E19
+http://asgard.lhmtv.gq/series/The%20Flash/s03e19-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E20
+http://asgard.lhmtv.gq/series/The%20Flash/s03e20-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E21
+http://asgard.lhmtv.gq/series/The%20Flash/s03e21-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E22
+http://asgard.lhmtv.gq/series/The%20Flash/s03e22-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash3.jpg" group-title="The Flash", 3T-E23
+http://asgard.lhmtv.gq/series/The%20Flash/s03e23-dub-720p.mp4?LHMTv
 
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E01 O Flash Renascido
-http://odin.lhmtv.gq/series/The%20Flash/s04e01-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E02 Sinais Mistos
-http://odin.lhmtv.gq/series/The%20Flash/s04e02-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E03 Que a Sorte Seja uma Dama
-http://odin.lhmtv.gq/series/The%20Flash/s04e03-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E04 Longa Jornada Noite Adentro
-http://odin.lhmtv.gq/series/The%20Flash/s04e04-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E05 A Noite das Garotas
-http://odin.lhmtv.gq/series/The%20Flash/s04e05-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E06 Quando Harry Conheceu Harry...
-http://odin.lhmtv.gq/series/The%20Flash/s04e06-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E07 Portanto. Eu Sou
-http://odin.lhmtv.gq/series/The%20Flash/s04e07-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E08 Crise na Terra-X. Parte 3
-http://odin.lhmtv.gq/series/The%20Flash/s04e08-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E09 Nao Corra
-http://odin.lhmtv.gq/series/The%20Flash/s04e09-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E10 O Julgamento do Flash
-http://odin.lhmtv.gq/series/The%20Flash/s04e10-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E11 O Cavaleiro Alongado Ascende
-http://odin.lhmtv.gq/series/The%20Flash/s04e11-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E12 Cara. Eu sou do Team Flash
-http://odin.lhmtv.gq/series/The%20Flash/s04e12-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E13 Cores Verdadeiras
-http://odin.lhmtv.gq/series/The%20Flash/s04e13-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E14 Assunto 9
-http://odin.lhmtv.gq/series/The%20Flash/s04e14-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E15 Digite Flashtime
-http://odin.lhmtv.gq/series/The%20Flash/s04e15-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E16 Corra Iris. Corra
-http://odin.lhmtv.gq/series/The%20Flash/s04e16-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E17 Nulo e irritado
-http://odin.lhmtv.gq/series/The%20Flash/s04e17-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E18 Se Perca
-http://odin.lhmtv.gq/series/The%20Flash/s04e18-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E19 O Trapaceiro da Furia
-http://odin.lhmtv.gq/series/The%20Flash/s04e19-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E20 Portanto. Ela Existe
-http://odin.lhmtv.gq/series/The%20Flash/s04e20-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E21 Harry e os Harrisons
-http://odin.lhmtv.gq/series/The%20Flash/s04e21-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E22 Pense Rapido
-http://odin.lhmtv.gq/series/The%20Flash/s04e22-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash4.jpg" group-title="The Flash", 4T-E23 Nos Somos o Flash
-http://odin.lhmtv.gq/series/The%20Flash/s04e23-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E01 O Flash Renascido
+http://asgard.lhmtv.gq/series/The%20Flash/s04e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E02 Sinais Mistos
+http://asgard.lhmtv.gq/series/The%20Flash/s04e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E03 Que a Sorte Seja uma Dama
+http://asgard.lhmtv.gq/series/The%20Flash/s04e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E04 Longa Jornada Noite Adentro
+http://asgard.lhmtv.gq/series/The%20Flash/s04e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E05 A Noite das Garotas
+http://asgard.lhmtv.gq/series/The%20Flash/s04e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E06 Quando Harry Conheceu Harry...
+http://asgard.lhmtv.gq/series/The%20Flash/s04e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E07 Portanto. Eu Sou
+http://asgard.lhmtv.gq/series/The%20Flash/s04e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E08 Crise na Terra-X. Parte 3
+http://asgard.lhmtv.gq/series/The%20Flash/s04e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E09 Nao Corra
+http://asgard.lhmtv.gq/series/The%20Flash/s04e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E10 O Julgamento do Flash
+http://asgard.lhmtv.gq/series/The%20Flash/s04e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E11 O Cavaleiro Alongado Ascende
+http://asgard.lhmtv.gq/series/The%20Flash/s04e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E12 Cara. Eu sou do Team Flash
+http://asgard.lhmtv.gq/series/The%20Flash/s04e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E13 Cores Verdadeiras
+http://asgard.lhmtv.gq/series/The%20Flash/s04e13-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E14 Assunto 9
+http://asgard.lhmtv.gq/series/The%20Flash/s04e14-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E15 Digite Flashtime
+http://asgard.lhmtv.gq/series/The%20Flash/s04e15-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E16 Corra Iris. Corra
+http://asgard.lhmtv.gq/series/The%20Flash/s04e16-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E17 Nulo e irritado
+http://asgard.lhmtv.gq/series/The%20Flash/s04e17-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E18 Se Perca
+http://asgard.lhmtv.gq/series/The%20Flash/s04e18-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E19 O Trapaceiro da Furia
+http://asgard.lhmtv.gq/series/The%20Flash/s04e19-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E20 Portanto. Ela Existe
+http://asgard.lhmtv.gq/series/The%20Flash/s04e20-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E21 Harry e os Harrisons
+http://asgard.lhmtv.gq/series/The%20Flash/s04e21-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E22 Pense Rapido
+http://asgard.lhmtv.gq/series/The%20Flash/s04e22-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash4.jpg" group-title="The Flash", 4T-E23 Nos Somos o Flash
+http://asgard.lhmtv.gq/series/The%20Flash/s04e23-dub-720p.mp4?LHMTv
 
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E01 
-http://odin.lhmtv.gq/series/The%20Flash/s05e01-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E02 
-http://odin.lhmtv.gq/series/The%20Flash/s05e02-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E03
-http://odin.lhmtv.gq/series/The%20Flash/s05e03-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E04
-http://odin.lhmtv.gq/series/The%20Flash/s05e04-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E05
-http://odin.lhmtv.gq/series/The%20Flash/s05e05-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E06
-http://odin.lhmtv.gq/series/The%20Flash/s05e06-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E07 
-http://odin.lhmtv.gq/series/The%20Flash/s05e07-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E08
-http://odin.lhmtv.gq/series/The%20Flash/s05e08-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E09
-http://odin.lhmtv.gq/series/The%20Flash/s05e09-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E10
-http://odin.lhmtv.gq/series/The%20Flash/s05e10-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E11
-http://odin.lhmtv.gq/series/The%20Flash/s05e11-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E12
-http://odin.lhmtv.gq/series/The%20Flash/s05e12-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E13
-http://odin.lhmtv.gq/series/The%20Flash/s05e13-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E14
-http://odin.lhmtv.gq/series/The%20Flash/s05e14-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E15
-http://odin.lhmtv.gq/series/The%20Flash/s05e15-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E16
-http://odin.lhmtv.gq/series/The%20Flash/s05e16-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E17
-http://odin.lhmtv.gq/series/The%20Flash/s05e17-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E18
-http://odin.lhmtv.gq/series/The%20Flash/s05e18-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E19
-http://odin.lhmtv.gq/series/The%20Flash/s05e19-dub-720p.mp4?LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E20
-http://hel.lhmtv.gq/play/?contentId=4118b546dcb29c43&LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E21
-http://hel.lhmtv.gq/play/?contentId=e33ebab9596277b8&LHMTv
-#EXTINF:0 tvg-logo="http://lhmtv.tech/series/tflash5.jpg" group-title="The Flash", 5T-E22
-http://hel.lhmtv.gq/play/?contentId=69bdd6f7d5de2684&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E01 
+http://asgard.lhmtv.gq/series/The%20Flash/s05e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E02 
+http://asgard.lhmtv.gq/series/The%20Flash/s05e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E03
+http://asgard.lhmtv.gq/series/The%20Flash/s05e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E04
+http://asgard.lhmtv.gq/series/The%20Flash/s05e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E05
+http://asgard.lhmtv.gq/series/The%20Flash/s05e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E06
+http://asgard.lhmtv.gq/series/The%20Flash/s05e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E07 
+http://asgard.lhmtv.gq/series/The%20Flash/s05e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E08
+http://asgard.lhmtv.gq/series/The%20Flash/s05e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E09 Elseworlds. Parte 1 – Continua em Arrow 7×09
+http://asgard.lhmtv.gq/series/The%20Flash/s05e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E10
+http://asgard.lhmtv.gq/series/The%20Flash/s05e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E11
+http://asgard.lhmtv.gq/series/The%20Flash/s05e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E12
+http://asgard.lhmtv.gq/series/The%20Flash/s05e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E13
+http://asgard.lhmtv.gq/series/The%20Flash/s05e13-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E14
+http://asgard.lhmtv.gq/series/The%20Flash/s05e14-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E15
+http://asgard.lhmtv.gq/series/The%20Flash/s05e15-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E16
+http://asgard.lhmtv.gq/series/The%20Flash/s05e16-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E17
+http://asgard.lhmtv.gq/series/The%20Flash/s05e17-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E18
+http://asgard.lhmtv.gq/series/The%20Flash/s05e18-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E19
+http://asgard.lhmtv.gq/series/The%20Flash/s05e19-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E20
+http://niflheim.lhmtv.gq/play/?contentId=4118b546dcb29c43&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E21
+http://niflheim.lhmtv.gq/play/?contentId=e33ebab9596277b8&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash5.jpg" group-title="The Flash", 5T-E22
+http://niflheim.lhmtv.gq/play/?contentId=69bdd6f7d5de2684&LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash6.jpg" group-title="The Flash", 6TLEG-E01
+http://topiptv.tk/LHMTvPlay/TheFlashT06TE01?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash6.jpg" group-title="The Flash", 6T-E02
+http://topiptv.tk/LHMTvPlay/TheFlashT06TE02?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.cf/series/tflash6.jpg" group-title="The Flash", 6TLEG-E03
+http://topiptv.tk/LHMTvPlay/TheFlashT06TE03?LHMTv
