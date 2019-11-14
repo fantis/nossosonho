@@ -1415,6 +1415,16 @@ Um avião reaparece cinco anos após ter decolado, mas para os passageiros apena
 </item>
 <item>
 
+<channels>
+<channel>
+<name>[COLOR lime]MARVEL'S RUNAWAYS - Fugitivos da Marvel (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9558pmQu0xyJ2E9n87le3BtIj6n.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/MARVELSRUNAWAYS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8Nf7t8LwZt4oKwR6vCsvmDdMVqV.jpg</fanart>
+<info>E se seu maior inimigo estiver mais perto do que você imagina? É esta a realidade de seis adolescentes nada parecidos, mas que enfrentam um inimigo em comum: os próprios pais. Agora, o nerd Alex, a independente Nico, a bela Karolina, a durona Gert, o galã Chase e a inocente Molly unem forças em uma missão cujo campo de batalha começa em suas casas.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Mindhunter (2017)[/COLOR]</name>
@@ -1460,6 +1470,26 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 <genre>POLICIAL</genre>
 </item>
 <item>
+
+<channels>
+<channel>
+<name>[COLOR lime]O Justiceiro (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c86aUAhACPyloPtL2CH4ZP5hO7V.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/JUSTICEIRO.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vNY0wgCbzXBtaN2EOPL3jkl8xYq.jpg</fanart>
+<info>O ex-marine Frank Castle só quer punir os criminosos responsáveis pela morte da sua família, mas torna-se alvo de uma conspiração militar.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]O Mundo Sombrio de Sabrina (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XNUMEnHzCKvCYvYpnFgoZa7QQL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OMundoSombriodeSabrina.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8AdmUPTyidDebwIuakqkSt6u1II.jpg</fanart>
+<info>Bruxa e também mortal, a jovem Sabrina Spellman fica dividida entre a vida normal de adolescente e o legado de sua família feiticeira.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
@@ -1541,6 +1571,26 @@ Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) sã
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR lime]Os 100 (2014)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rEExS6mjrAbFEXURYWem6Pb6cZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/THE100.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/sIWQkAHMsOfObyGxlgllj8SzMFb.jpg</fanart>
+<info>Noventa e Sete anos antes, um apocalipse nuclear dizimou o planeta Terra e destruiu a civilização. Os únicos sobreviventes foram os 400 habitantes de 12 estações espaciais que estavam em órbita durante o acontecimento. Depois de tantos anos, a população das aeronaves aumentou e os recursos estão quase acabando, o que pode significar o fim dos seres humanos. Por isso, os comandantes enviam para a Terra cem jovens prisioneiros, na tentativa de testar a situação no nosso planeta e descobrir se existe a possibilidade de retorno ao local. Além de lidarem com as próprias diferenças, o grupo precisa se unir para enfrentar os perigos que os aguardam por causa da radiação. Para complicar, tudo indica que eles não estão sozinhos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]O Último Guardião (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRFaI0aTLOkg2EZqej46ojNnarL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OULTIMOGUARDIAO.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rRiTitphsXZhttaDW30KEIubqNG.jpg</fanart>
+<info>Descobrindo seus laços com uma ordem secreta antiga, um jovem de Istambul embarca em uma missão para salvar a cidade de um inimigo imortal.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]OVNIS INVESTIGAÇÃO SECRETA (2019)[/COLOR]</name>
@@ -1564,6 +1614,16 @@ Em seis episódios, a série traz imagens exclusivas, entrevistas com testemunha
 <genre>FICÇÃO</genre>
 </item>
 <item>
+
+<channels>
+<channel>
+<name>[COLOR lime]SEAL Team (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yuIJip8YJQ2rkLs7b7JlR38WY7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SEALTEAM.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4Y1nxoNFdPqPFvmmR9r0HXuP0mE.jpg</fanart>
+<info>O SEAL Team é responsável pelas missões mais perigosas dos EUA. Acompanhe as trajetórias dos agentes desta equipe da Marinha americana.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
@@ -1589,11 +1649,21 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
-<name>[COLOR lime]SEAL Team (2017)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yuIJip8YJQ2rkLs7b7JlR38WY7.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SEALTEAM.m3u</externallink>
-<fanart>https://image.tmdb.org/t/p/original/4Y1nxoNFdPqPFvmmR9r0HXuP0mE.jpg</fanart>
-<info>Mesmo sem se formar e sem licença para advogar, um jovem brilhante impressiona um importante advogado e consegue uma cobiçada posição em sua firma.</info>
+<name>[COLOR lime]Segurança em Jogo (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBIZj0hh3rdvD6uEhgfegGxZNaw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BODYGUARD.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/og0NmKvndLXQXCicBWd8GII1c17.jpg</fanart>
+<info>Após ajudar a evitar um ataque terrorista, um veterano de guerra recebe a missão de proteger a ministra que foi uma das responsáveis pelo conflito em que ele lutou.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Sex Education (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzmDLYIokc7DkmDTBw1S4WTRVzj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SEXEDUCATION.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/eihB6OWQMljJD86ApQIC649Q91Y.jpg</fanart>
+<info>O inseguro Otis manja tudo quando o negócio é aconselhamento sexual, graças à sua mãe sexóloga. E aí a rebelde Maeve propõe criar uma clínica de terapia sexual na escola.</info>
 </channel>
 </channels>
 
@@ -1639,11 +1709,31 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]Titãs (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TITANS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
+<info>Uma equipe de jovens super-heróis liderada por Asa Noturna (anteriormente Robin de Batman) forma para combater o mal e outros perigos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]The Blacklist - Lista Negra (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x65SX9xM5wQRAQWQNL2melBCe1j.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheBlacklist.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/fHwiAqIKragaCbNJo9Qs4lrccIN.jpg</fanart>
 <info>Após se entregar à polícia, um brilhante fugitivo oferece ajuda ao FBI, mas apenas se a novata Elizabeth Keen for sua parceira.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]The Boys (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzOxNbbz1liFzHU1IPvdgUR647b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/THEBOYS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>
+<info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
 </channel>
 </channels>
 
