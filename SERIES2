@@ -326,6 +326,16 @@ Após a morte inesperada de sua esposa, Tony (Ricky Gervais) decide mudar seu mo
 <info>Após a morte inesperada de sua esposa, Tony (Ricky Gervais) decide mudar seu modo de viver. O cara legal logo se torna um homem impulsivo que diz e faz o que tem vontade. A situação se complica, quando as pessoas ao redor de Tony tentam transformá-lo em uma pessoa melhor novamente.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]AMERICAN HORROR STORY (2011)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR2K0Ui9UsOqnzb5IrV6tLUcUHl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AHS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/h6oOpNbOsdkVkKvMX4dQvXg8J3C.jpg</fanart>
+<info>É uma série de terror e suspense, que, a cada temporada, conta uma nova história centrada em um tema e com praticamente todo o elenco da temporada anterior interpretando novos e completamente diferentes personagens.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Alcatraz (2012)[/COLOR]</name>
@@ -765,6 +775,16 @@ Kate Kane, uma jovem lésbica, decide utilizar suas altas habilidades de combate
 A história de um homem injustamente condenado que luta pela sua sobrevivência e para manter sua identidade. Ele retorna à terra natal em busca de vingança, mas encontra a redenção.</info>
 <genre>EPICO</genre>
 
+<channels>
+<channel>
+<name>[COLOR lime]Big Bang: A Teoria (2007)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXLGUSXp3ZLkjwX0x45NXCagiNH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BIGBANGTHEORY.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ag0xJcZYNmi3SdiI9zGaJNCciaP.jpg</fanart>
+<info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+</channel>
+</channels>
+
 <item>
 <title>PRIMEIRA TEMPORADA</title>
 <link>http://cdnfe2.azureedge.net/RCServer12/ondemand/BNHREP01.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
@@ -990,6 +1010,16 @@ Após o apocalipse, um garoto procura a amada em uma Los Angeles tomada por zumb
 <genre>DRAMA</genre>
 </item>
 <item>
+
+<channels>
+<channel>
+<name>[COLOR lime]Dark (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DARK.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/58v5OtCeh8cNUvL2tpSohIWIqlD.jpg</fanart>
+<info>A história acompanha quatro diferentes famílias que vivem em uma pequena cidade alemã. Suas vidas pacatas são completamente atormentadas quando duas crianças desaparecem misteriosamente e os segredos obscuros das suas famílias começam a ser desvendados.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
@@ -1501,6 +1531,16 @@ Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) sã
 <info>Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) são profissionais naquilo que fazem. Sem perspectiva de melhorar a profissão, elas percebem que por trás de qualquer bom trabalho há uma excelente estratégia de marketing. Então, por que não aplicar essas técnicas à profissão mais antiga do mundo? Assim, as três garotas de programa estão prestes a se tornar mulheres de negócio.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]Os Simpsons (1989)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OsSimpsons.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/f5uNbUC76oowt5mt5J9QlqrIYQ6.jpg</fanart>
+<info>A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]OVNIS INVESTIGAÇÃO SECRETA (2019)[/COLOR]</name>
@@ -1549,11 +1589,31 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]Smallville: As Aventuras do Superboy (2001)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc9a9n4g9Ibs485t5eBtyNG0mcr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Smallville.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/pTN5HKeqGY1MUTPvOaMtjh1uMhQ.jpg</fanart>
+<info>A série mostra a vida do Superman quando ele ainda era apenas um adolescente, que nem imaginava os poderes que tinha. Ao invés de lidar com vilões e proteger o mundo, Clark Kent terá que enfrentar a escola, as dificuldades de se conquistar as garotas e lidar com seus rígidos, porém amáveis, pais, enquanto seu corpo passa por muitas mudanças — e nem todas elas relacionadas à puberdade: uma super-força, visão de raio-x... Mais forte e mais rápido do que qualquer outra pessoa, Clark não consegue entender porque se sente tão deslocado, principalmente na presença da bela Lana Lang, cujos pais foram mortos da chuva de meteoros que o trouxe à Terra. E numa grande diferença em relação às outras histórias, Clark se torna amigo de seu futuro inimigo, Lex Luthor, após se encontrarem por acaso.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Sobrenatural (2005)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iFm6Kz7iYoFaEcj4fLyZHAmTQA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SuperNatural.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ji6ehQWPo00KScXhdmub8wQA6H.jpg</fanart>
 <info>Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Suits - Homens de Terno (2011)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Iu6pTzfL6iRWhXuYkNs8cPdJF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SUITS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wuU5t8oZTGnQPWLbI1G7OxqGTrA.jpg</fanart>
+<info>Mesmo sem se formar e sem licença para advogar, um jovem brilhante impressiona um importante advogado e consegue uma cobiçada posição em sua firma.</info>
 </channel>
 </channels>
 
@@ -1925,3 +1985,4 @@ Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantem
 <genre>FICÇÃO</genre>
 </item>
 <item>
+
