@@ -12,6 +12,18 @@
 
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]CANAIS 24HS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/canais24hs</externallink>
+<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- FILMES, DESENHOS E SERIES 24HS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SERIES2</externallink>
@@ -58,29 +70,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]THE BEST SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/35/items/COLECOESDEFILMES/THEBESTSERIES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/THEBESTSERIES</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- É QUASE UMA NETFLIX -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/SERIES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SERIES</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
